@@ -1,0 +1,535 @@
+ESTATÍSTICAS DE GPU - MODO GRAPH
+Modelo: gemma3-4b-it-qat
+Total de prompts: 88
+Tempo total de execução: 10387.74s
+Tempo médio por prompt: 118.03s
+====================================================================================================
+
+
+Prompt 1: the next question is about asthma, What is asthma?
+Tempo de geração: 130.44s
+  GPU 0:
+    Utilização: 72.0% (max: 72.0%)
+    Memória: 6353.6 MB (max: 6353.6 MB)
+
+Prompt 2: the next question is about asthma, How does inflammation of the airways affect my asthma?
+Tempo de geração: 112.55s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 3: the next question is about asthma, What is inflammation in the airways?
+Tempo de geração: 127.66s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6338.6 MB (max: 6338.6 MB)
+
+Prompt 4: the next question is about asthma, Who gets asthma?
+Tempo de geração: 138.06s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6335.2 MB (max: 6335.2 MB)
+
+Prompt 5: the next question is about asthma, At what age does asthma start?
+Tempo de geração: 135.16s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6335.2 MB (max: 6335.2 MB)
+
+Prompt 6: the next question is about asthma, What causes asthma?
+Tempo de geração: 119.36s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6334.9 MB (max: 6334.9 MB)
+
+Prompt 7: the next question is about asthma, Is asthma a chronic disease?
+Tempo de geração: 123.20s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6335.1 MB (max: 6335.1 MB)
+
+Prompt 8: the next question is about asthma, Is there a risk that my asthma will get worse with age?
+Tempo de geração: 92.05s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6334.9 MB (max: 6334.9 MB)
+
+Prompt 9: the next question is about asthma, Is it worse getting asthma when you are old?
+Tempo de geração: 109.60s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6334.9 MB (max: 6334.9 MB)
+
+Prompt 10: the next question is about asthma, What is known about asthma?
+Tempo de geração: 124.78s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6334.9 MB (max: 6334.9 MB)
+
+Prompt 11: the next question is about asthma, What causes asthma symptoms or an asthma attack?
+Tempo de geração: 134.97s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6371.6 MB (max: 6371.6 MB)
+
+Prompt 12: the next question is about asthma, What are asthma triggers?
+Tempo de geração: 126.13s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6336.5 MB (max: 6336.5 MB)
+
+Prompt 13: the next question is about asthma, What are the main asthma triggers?
+Tempo de geração: 125.75s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 14: the next question is about asthma, What chemicals, irritants or other substances trigger asthma?
+Tempo de geração: 137.01s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.5 MB (max: 6336.5 MB)
+
+Prompt 15: the next question is about asthma, Can medications trigger asthma?
+Tempo de geração: 108.66s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.5 MB (max: 6336.5 MB)
+
+Prompt 16: the next question is about asthma, Can weather changes trigger asthma?
+Tempo de geração: 135.95s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6342.8 MB (max: 6342.8 MB)
+
+Prompt 17: the next question is about asthma, Can infections trigger asthma?
+Tempo de geração: 127.69s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 18: the next question is about asthma, Can an allergic reaction trigger asthma?
+Tempo de geração: 116.95s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6336.5 MB (max: 6336.5 MB)
+
+Prompt 19: the next question is about asthma, Is asthma a psychological (psychosomatic) disease?
+Tempo de geração: 119.05s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6342.8 MB (max: 6342.8 MB)
+
+Prompt 20: the next question is about asthma, Why is it sometimes so hard to know what triggers an asthma attac
+Tempo de geração: 119.74s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 21: the next question is about asthma, Can I really get asthma symptoms from a plastic Christmas tree?
+Tempo de geração: 126.62s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6342.8 MB (max: 6342.8 MB)
+
+Prompt 22: the next question is about asthma, What does asthma feel like?
+Tempo de geração: 133.31s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.5 MB (max: 6336.5 MB)
+
+Prompt 23: the next question is about asthma, What happens during an asthma attack?
+Tempo de geração: 117.80s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 24: the next question is about asthma, What causes an asthma attack?
+Tempo de geração: 120.15s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6338.8 MB (max: 6338.8 MB)
+
+Prompt 25: the next question is about asthma, What are the signs of a severe and dangerous asthma attack?
+Tempo de geração: 108.89s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 26: the next question is about asthma, Can a person die from asthma?
+Tempo de geração: 108.03s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 27: the next question is about asthma, Why do I lose my breath?
+Tempo de geração: 109.31s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 28: the next question is about asthma, How do I know if I am having an asthma attack?
+Tempo de geração: 115.89s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 29: the next question is about asthma, Can the peak flow meter tell me if I need to see the doctor?
+Tempo de geração: 101.55s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6336.5 MB (max: 6336.5 MB)
+
+Prompt 30: the next question is about asthma, Can my asthma be cured?
+Tempo de geração: 100.12s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 31: the next question is about asthma, Can I outgrow my asthma?
+Tempo de geração: 115.77s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6356.3 MB (max: 6356.3 MB)
+
+Prompt 32: the next question is about asthma, Is asthma a life-long disease?
+Tempo de geração: 113.50s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6349.8 MB (max: 6349.8 MB)
+
+Prompt 33: the next question is about asthma, How can I avoid common triggers?
+Tempo de geração: 140.35s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 34: the next question is about asthma, What can I do to improve my home environment in general?
+Tempo de geração: 152.54s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 35: the next question is about asthma, I’m allergic to pets/furry animals, what can I do?
+Tempo de geração: 134.78s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6341.2 MB (max: 6341.2 MB)
+
+Prompt 36: the next question is about asthma, Should I get a central vacuum cleaner?
+Tempo de geração: 162.41s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6337.1 MB (max: 6337.1 MB)
+
+Prompt 37: the next question is about asthma, I’m allergic to dust mites, what can I do?
+Tempo de geração: 117.40s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 38: the next question is about asthma, Can I reduce my asthma if I get an air purifier?
+Tempo de geração: 111.51s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6341.2 MB (max: 6341.2 MB)
+
+Prompt 39: the next question is about asthma, Can acupuncture help my asthma?
+Tempo de geração: 112.27s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6341.2 MB (max: 6341.2 MB)
+
+Prompt 40: the next question is about asthma, What are controllers?
+Tempo de geração: 98.72s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 41: the next question is about asthma, What are relievers?
+Tempo de geração: 102.11s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6337.1 MB (max: 6337.1 MB)
+
+Prompt 42: the next question is about asthma, What are combination medications?
+Tempo de geração: 105.08s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6337.1 MB (max: 6337.1 MB)
+
+Prompt 43: the next question is about asthma, What effects do anti-inflammatory medications have?
+Tempo de geração: 116.02s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 44: the next question is about asthma, What effects do airway opener medications have?
+Tempo de geração: 109.05s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 45: the next question is about asthma, What are glucocorticosteroids?
+Tempo de geração: 96.85s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6337.1 MB (max: 6337.1 MB)
+
+Prompt 46: the next question is about asthma, Why are glucocorticosteriod medications inhaled?
+Tempo de geração: 96.34s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6337.1 MB (max: 6337.1 MB)
+
+Prompt 47: the next question is about asthma, When and why are corticosteroid tablets or injections used?
+Tempo de geração: 87.91s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 48: the next question is about asthma, What is the difference between a corticosteroid and an anabolic s
+Tempo de geração: 96.99s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6337.2 MB (max: 6337.2 MB)
+
+Prompt 49: the next question is about asthma, What are inhaled non-steroidal anti-inflammatory medications?
+Tempo de geração: 134.42s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6337.1 MB (max: 6337.1 MB)
+
+Prompt 50: the next question is about asthma, Is there an effective alternative to using inhaled corticosteroid
+Tempo de geração: 107.38s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6341.2 MB (max: 6341.2 MB)
+
+Prompt 51: the next question is about asthma, Do I still need my inhaled corticosteroid if I feel OK?
+Tempo de geração: 94.85s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6343.4 MB (max: 6343.4 MB)
+
+Prompt 52: the next question is about asthma, What anti-inflammatory medication can I take for a strained muscl
+Tempo de geração: 92.43s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6340.5 MB (max: 6340.5 MB)
+
+Prompt 53: the next question is about asthma, What is hyposensitisation (vaccination)?
+Tempo de geração: 127.53s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 54: the next question is about asthma, I’m troubled by my asthma when outdoors in cold weather. What can
+Tempo de geração: 134.40s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 55: the next question is about asthma, Can asthma itself cause side effects?
+Tempo de geração: 105.64s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6340.4 MB (max: 6340.4 MB)
+
+Prompt 56: the next question is about asthma, Can tiredness and forgetfulness be caused by my asthma medication
+Tempo de geração: 88.83s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 57: the next question is about asthma, Do inhaled corticosteroids cause any long-term side effects?
+Tempo de geração: 107.43s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 58: the next question is about asthma, Is it good for me to always use inhaled corticosteroids?
+Tempo de geração: 110.07s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 59: the next question is about asthma, Can I become addicted to the corticosteroids in asthma medication
+Tempo de geração: 117.93s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 60: the next question is about asthma, Why can I use inhaled corticosteroids for many years, but cortico
+Tempo de geração: 114.81s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 61: the next question is about asthma, Do I need to rinse out my mouth after using an inhaled corticoste
+Tempo de geração: 88.51s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6338.7 MB (max: 6338.7 MB)
+
+Prompt 62: the next question is about asthma, If I can’t remember whether I actually took my daily maintenance 
+Tempo de geração: 91.39s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 63: the next question is about asthma, What can I do to prevent osteoporosis?
+Tempo de geração: 90.07s
+  GPU 0:
+    Utilização: 73.0% (max: 73.0%)
+    Memória: 6357.1 MB (max: 6357.1 MB)
+
+Prompt 64: the next question is about asthma, Do infections cause asthma?
+Tempo de geração: 125.78s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6345.7 MB (max: 6345.7 MB)
+
+Prompt 65: the next question is about asthma, Do infections trigger asthma?
+Tempo de geração: 124.47s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.9 MB (max: 6336.9 MB)
+
+Prompt 66: the next question is about asthma, Why don’t antibiotics help against asthmatic inflammation in the 
+Tempo de geração: 112.54s
+  GPU 0:
+    Utilização: 72.0% (max: 72.0%)
+    Memória: 6337.0 MB (max: 6337.0 MB)
+
+Prompt 67: the next question is about asthma, Is asthma contagious?
+Tempo de geração: 117.85s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.9 MB (max: 6336.9 MB)
+
+Prompt 68: the next question is about asthma, Is it good for people with asthma to exercise?
+Tempo de geração: 109.34s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6337.0 MB (max: 6337.0 MB)
+
+Prompt 69: the next question is about asthma, Exercise is good for you. So why can it cause asthma symptoms?
+Tempo de geração: 138.96s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6339.3 MB (max: 6339.3 MB)
+
+Prompt 70: the next question is about asthma, How can I avoid exercise-induced asthma?
+Tempo de geração: 115.38s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6340.4 MB (max: 6340.4 MB)
+
+Prompt 71: the next question is about asthma, Are some kind of physical activities more suitable for people wit
+Tempo de geração: 128.77s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6340.4 MB (max: 6340.4 MB)
+
+Prompt 72: the next question is about asthma, How intensively do I dare to exercise?
+Tempo de geração: 128.64s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 73: the next question is about asthma, I often feel my asthma when I jog. Do I have to quit jogging?
+Tempo de geração: 116.50s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 74: the next question is about asthma, What should I do if I get asthma symptoms while exercising?
+Tempo de geração: 121.44s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 75: the next question is about asthma, Can I take asthma medications and still take part in competitive 
+Tempo de geração: 131.21s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 76: the next question is about asthma, Is asthma related to other chronic diseases, such as rheumatism a
+Tempo de geração: 130.53s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 77: the next question is about asthma, What is the difference between asthma and COPD (chronic obstructi
+Tempo de geração: 119.35s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6340.4 MB (max: 6340.4 MB)
+
+Prompt 78: the next question is about asthma, Is emphysema the same as asthma?
+Tempo de geração: 116.30s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 79: the next question is about asthma, What climate is best for a person with asthma?
+Tempo de geração: 130.59s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 80: the next question is about asthma, Are relaxing exercises good for my asthma?
+Tempo de geração: 112.29s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6340.4 MB (max: 6340.4 MB)
+
+Prompt 81: the next question is about asthma, Is there a good breathing technique to use when my asthma symptom
+Tempo de geração: 124.04s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 82: the next question is about asthma, How does asthma affect my choice of a professional career?
+Tempo de geração: 130.13s
+  GPU 0:
+    Utilização: 68.0% (max: 68.0%)
+    Memória: 6336.4 MB (max: 6336.4 MB)
+
+Prompt 83: the next question is about asthma, Sometimes people have trouble understanding that I cant cope with
+Tempo de geração: 142.76s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.2 MB (max: 6336.2 MB)
+
+Prompt 84: the next question is about asthma, Can I have pets even though I have asthma?
+Tempo de geração: 128.41s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.2 MB (max: 6336.2 MB)
+
+Prompt 85: the next question is about asthma, When I went to Spain on holiday I felt great – should I move ther
+Tempo de geração: 119.18s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6338.4 MB (max: 6338.4 MB)
+
+Prompt 86: the next question is about asthma, My asthma means that I have to miss out on activities that are im
+Tempo de geração: 144.24s
+  GPU 0:
+    Utilização: 69.0% (max: 69.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 87: the next question is about asthma, Can asthma medication help prevent asthma symptoms?
+Tempo de geração: 115.57s
+  GPU 0:
+    Utilização: 70.0% (max: 70.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+
+Prompt 88: the next question is about asthma, Why does my asthma get worse when I am upset or worried about som
+Tempo de geração: 120.89s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6336.2 MB (max: 6336.2 MB)

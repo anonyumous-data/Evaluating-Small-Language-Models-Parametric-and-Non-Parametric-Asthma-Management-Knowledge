@@ -1,0 +1,442 @@
+[
+    {
+        "prompt": "the next question is about asthma, What is asthma?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 5.03
+    },
+    {
+        "prompt": "the next question is about asthma, How does inflammation of the airways affect my asthma?",
+        "resposta": "The next question is about how inflammation of the airways affects your asthma.",
+        "tempo_geracao": 1.24
+    },
+    {
+        "prompt": "the next question is about asthma, What is inflammation in the airways?",
+        "resposta": "The next question is about inflammation in the airways.",
+        "tempo_geracao": 1.18
+    },
+    {
+        "prompt": "the next question is about asthma, Who gets asthma?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.1
+    },
+    {
+        "prompt": "the next question is about asthma, At what age does asthma start?",
+        "resposta": "The next question is about asthma, at what age does asthma start.",
+        "tempo_geracao": 1.19
+    },
+    {
+        "prompt": "the next question is about asthma, What causes asthma?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.36
+    },
+    {
+        "prompt": "the next question is about asthma, Is asthma a chronic disease?",
+        "resposta": "Yes, asthma is a chronic disease.",
+        "tempo_geracao": 1.13
+    },
+    {
+        "prompt": "the next question is about asthma, Is there a risk that my asthma will get worse with age?",
+        "resposta": "Yes, there is a risk that your asthma will get worse with age.",
+        "tempo_geracao": 1.3
+    },
+    {
+        "prompt": "the next question is about asthma, Is it worse getting asthma when you are old?",
+        "resposta": "Yes, it is generally worse getting asthma when you are older.",
+        "tempo_geracao": 1.2
+    },
+    {
+        "prompt": "the next question is about asthma, What is known about asthma?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.19
+    },
+    {
+        "prompt": "the next question is about asthma, What causes asthma symptoms or an asthma attack?",
+        "resposta": "The next question is about asthma symptoms or an asthma attack.",
+        "tempo_geracao": 1.28
+    },
+    {
+        "prompt": "the next question is about asthma, What are asthma triggers?",
+        "resposta": "Asthma triggers are changes in the body's response to an inhaled irritant or allergen.",
+        "tempo_geracao": 1.3
+    },
+    {
+        "prompt": "the next question is about asthma, What are the main asthma triggers?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.22
+    },
+    {
+        "prompt": "the next question is about asthma, What chemicals, irritants or other substances trigger asthma?",
+        "resposta": "The next question is about chemicals, irritants, or other substances that trigger asthma.",
+        "tempo_geracao": 1.33
+    },
+    {
+        "prompt": "the next question is about asthma, Can medications trigger asthma?",
+        "resposta": "Yes, medications can trigger asthma.",
+        "tempo_geracao": 1.14
+    },
+    {
+        "prompt": "the next question is about asthma, Can weather changes trigger asthma?",
+        "resposta": "Yes, weather changes can trigger asthma.",
+        "tempo_geracao": 1.22
+    },
+    {
+        "prompt": "the next question is about asthma, Can infections trigger asthma?",
+        "resposta": "Yes, infections can trigger asthma.",
+        "tempo_geracao": 1.17
+    },
+    {
+        "prompt": "the next question is about asthma, Can an allergic reaction trigger asthma?",
+        "resposta": "Yes, an allergic reaction can trigger asthma.",
+        "tempo_geracao": 1.24
+    },
+    {
+        "prompt": "the next question is about asthma, Is asthma a psychological (psychosomatic) disease?",
+        "resposta": "Yes, asthma is a psychological (psychosomatic) disease.",
+        "tempo_geracao": 1.26
+    },
+    {
+        "prompt": "the next question is about asthma, Why is it sometimes so hard to know what triggers an asthma attack?",
+        "resposta": "The next question is about asthma, and it's a common and often frustrating issue.",
+        "tempo_geracao": 1.33
+    },
+    {
+        "prompt": "the next question is about asthma, Can I really get asthma symptoms from a plastic Christmas tree?",
+        "resposta": "Yes, you can definitely get asthma symptoms from a plastic Christmas tree!",
+        "tempo_geracao": 1.16
+    },
+    {
+        "prompt": "the next question is about asthma, What does asthma feel like?",
+        "resposta": "Asthma feels like a combination of symptoms, which can include:\n\n*   **Shortness of breath**\n*   **Chest tightness**\n*   **Puccyness**\n*   **Sneezing**\n*   **Cough**\n*   **Wheezing**\n*   **Shortness of breath**",
+        "tempo_geracao": 1.98
+    },
+    {
+        "prompt": "the next question is about asthma, What happens during an asthma attack?",
+        "resposta": "The next question is about asthma, What happens during an asthma attack?",
+        "tempo_geracao": 1.24
+    },
+    {
+        "prompt": "the next question is about asthma, What causes an asthma attack?",
+        "resposta": "The next question is about asthma, and it's a common and serious condition.",
+        "tempo_geracao": 1.37
+    },
+    {
+        "prompt": "the next question is about asthma, What are the signs of a severe and dangerous asthma attack?",
+        "resposta": "The next question is about asthma, What are the signs of a severe and dangerous asthma attack?",
+        "tempo_geracao": 1.32
+    },
+    {
+        "prompt": "the next question is about asthma, Can a person die from asthma?",
+        "resposta": "Yes, a person can die from asthma.",
+        "tempo_geracao": 1.22
+    },
+    {
+        "prompt": "the next question is about asthma, Why do I lose my breath?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.13
+    },
+    {
+        "prompt": "the next question is about asthma, How do I know if I am having an asthma attack?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.2
+    },
+    {
+        "prompt": "the next question is about asthma, Can the peak flow meter tell me if I need to see the doctor?",
+        "resposta": "Yes, the peak flow meter can tell you if you need to see a doctor for asthma.",
+        "tempo_geracao": 1.34
+    },
+    {
+        "prompt": "the next question is about asthma, Can my asthma be cured?",
+        "resposta": "Yes, your asthma can be cured.",
+        "tempo_geracao": 1.17
+    },
+    {
+        "prompt": "the next question is about asthma, Can I outgrow my asthma?",
+        "resposta": "Yes, you can outgrow your asthma.",
+        "tempo_geracao": 1.24
+    },
+    {
+        "prompt": "the next question is about asthma, Is asthma a life-long disease?",
+        "resposta": "Yes, asthma is a life-long disease.",
+        "tempo_geracao": 1.26
+    },
+    {
+        "prompt": "the next question is about asthma, How can I avoid common triggers?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.13
+    },
+    {
+        "prompt": "the next question is about asthma, What can I do to improve my home environment in general?",
+        "resposta": "The next question is about asthma, and it's important to understand that asthma is a chronic condition that can significantly impact a person's quality of life. \n\nHere are some things you can do to improve your home environment in general:\n\n*   **Maintain a healthy lifestyle:** This includes regular exercise, a balanced diet, getting enough sleep, and managing stress.\n*   **Ventilation:** Make sure your home is well-ventilated, especially in the winter months.\n*   **Reduce allergens:** Avoid exposure to dust, pollen, pet dander, and other allergens.\n*   **Keep windows clean and tidy:** This helps to reduce dust and airborne particles.\n*   **Use allergen-proof products:** Choose products that are specifically designed to protect you from allergens.\n*   **Properly dispose of waste:** Properly dispose of any waste that is contaminated with allergens.\n*   **Consider a home air purifier:** A home air purifier can help remove allergens and improve air quality.\n*   **Be aware of your surroundings:** Pay attention to your surroundings and be mindful of potential allergens.\n*   **Seek professional help:** If you are experiencing persistent asthma symptoms, or if you are concerned about your asthma management, it's important to consult a doctor or asthma specialist.\n\nIt's important to remember that asthma is a chronic condition, and managing it effectively is a lifelong process. By taking proactive steps to improve your home environment, you can significantly reduce your risk of developing asthma.",
+        "tempo_geracao": 5.2
+    },
+    {
+        "prompt": "the next question is about asthma, I’m allergic to pets/furry animals, what can I do?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.17
+    },
+    {
+        "prompt": "the next question is about asthma, Should I get a central vacuum cleaner?",
+        "resposta": "Yes, you should definitely get a central vacuum cleaner.",
+        "tempo_geracao": 1.3
+    },
+    {
+        "prompt": "the next question is about asthma, I’m allergic to dust mites, what can I do?",
+        "resposta": "Okay, that's a great question! Asthma is a common respiratory condition, and it's important to be aware of the potential triggers and how to manage your symptoms. Here are some things you can do to help manage your asthma:\n\n*   **Stay Indoors:** This is the most important thing. Close your windows and doors to minimize allergens and dust particles.\n*   **Wash Your Hands Frequently:** Wash your hands with soap and water for at least 20 seconds before, during, and after handling potentially allergenic materials.\n*   **Avoid Ditching Dust:** If you have dust mite allergies, avoid drying your clothes, hair, and bedding.\n*   **Use Air Purifiers:** Air purifiers can help reduce airborne dust and allergens, especially in enclosed spaces.\n*   **Wear a Mask:** If you have asthma symptoms, wearing a dust mask can help reduce the risk of airborne particles.\n*   **Manage Your Environment:** If you have asthma symptoms, try to keep your home and workplace as clean and dry as possible.\n\nIf you experience any worsening symptoms, such as wheezing, shortness of breath, chest tightness, or difficulty breathing, seek medical attention immediately.\n\nI hope this information helps you manage your asthma!",
+        "tempo_geracao": 4.24
+    },
+    {
+        "prompt": "the next question is about asthma, Can I reduce my asthma if I get an air purifier?",
+        "resposta": "Yes, you can reduce your asthma if you get an air purifier.",
+        "tempo_geracao": 1.22
+    },
+    {
+        "prompt": "the next question is about asthma, Can acupuncture help my asthma?",
+        "resposta": "Yes, acupuncture can help your asthma.",
+        "tempo_geracao": 1.21
+    },
+    {
+        "prompt": "the next question is about asthma, What are controllers?",
+        "resposta": "The next question is about controllers.",
+        "tempo_geracao": 1.16
+    },
+    {
+        "prompt": "the next question is about asthma, What are relievers?",
+        "resposta": "The next question is about **relievers**.",
+        "tempo_geracao": 1.23
+    },
+    {
+        "prompt": "the next question is about asthma, What are combination medications?",
+        "resposta": "The next question is about combination medications.",
+        "tempo_geracao": 1.16
+    },
+    {
+        "prompt": "the next question is about asthma, What effects do anti-inflammatory medications have?",
+        "resposta": "The next question is about the effects of anti-inflammatory medications.",
+        "tempo_geracao": 1.29
+    },
+    {
+        "prompt": "the next question is about asthma, What effects do airway opener medications have?",
+        "resposta": "The next question is about asthma, and the effects of airway opener medications are:\n\n*   **Reduced inflammation:** Opening the airways can help to reduce inflammation in the lungs, which can help to alleviate symptoms like wheezing, coughing, and shortness of breath.\n*   **Improved airflow:** Opening the airways can improve the amount of air that can be exchanged between the lungs and the airways, which can help to reduce the severity of asthma symptoms.\n*   **Reduced mucus production:** Opening the airways can reduce the amount of mucus that is produced in the airways, which can help to reduce the severity of asthma symptoms.",
+        "tempo_geracao": 2.54
+    },
+    {
+        "prompt": "the next question is about asthma, What are glucocorticosteroids?",
+        "resposta": "The next question is about glucocorticosteroids.",
+        "tempo_geracao": 1.22
+    },
+    {
+        "prompt": "the next question is about asthma, Why are glucocorticosteriod medications inhaled?",
+        "resposta": "The next question is about why are glucocorticosteriod medications inhaled.",
+        "tempo_geracao": 1.24
+    },
+    {
+        "prompt": "the next question is about asthma, When and why are corticosteroid tablets or injections used?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.15
+    },
+    {
+        "prompt": "the next question is about asthma, What is the difference between a corticosteroid and an anabolic steroid?",
+        "resposta": "The difference between a corticosteroid and an anabolic steroid is that **cerconesoids are synthetic hormones** that are used to treat asthma. They are designed to help the body cope with inflammation and damage caused by asthma.",
+        "tempo_geracao": 1.71
+    },
+    {
+        "prompt": "the next question is about asthma, What are inhaled non-steroidal anti-inflammatory medications?",
+        "resposta": "The next question is about inhaled non-steroidal anti-inflammatory medications.",
+        "tempo_geracao": 1.23
+    },
+    {
+        "prompt": "the next question is about asthma, Is there an effective alternative to using inhaled corticosteroids?",
+        "resposta": "Yes, there is an effective alternative to using inhaled corticosteroids for asthma.",
+        "tempo_geracao": 1.35
+    },
+    {
+        "prompt": "the next question is about asthma, Do I still need my inhaled corticosteroid if I feel OK?",
+        "resposta": "Yes, you should still need your inhaled corticosteroid (ICS) if you feel well and are not experiencing any symptoms of asthma.",
+        "tempo_geracao": 1.39
+    },
+    {
+        "prompt": "the next question is about asthma, What anti-inflammatory medication can I take for a strained muscle, aching joints, severe back pain or rheumatism, for example?",
+        "resposta": "The next question is about asthma.",
+        "tempo_geracao": 1.12
+    },
+    {
+        "prompt": "the next question is about asthma, What is hyposensitisation (vaccination)?",
+        "resposta": "The next question is about hyposensitisation (vaccination).",
+        "tempo_geracao": 1.29
+    },
+    {
+        "prompt": "the next question is about asthma, I’m troubled by my asthma when outdoors in cold weather. What can I do?",
+        "resposta": "Okay, I understand. It's completely normal to feel troubled and worried when you're outdoors in cold weather. It's important to take a moment to calm down and think about what you can do. \n\nHere are some things you can do to help manage your asthma when outdoors in cold weather:\n\n*   **Stay Hydrated:** Drink plenty of fluids, such as water, herbal tea, or broth, to stay hydrated.\n*   **Wear a Mask:** Wear a mask to protect your lungs from the cold air.\n*   **Avoid Triggers:** Try to avoid triggers such as pollen, dust, smoke, and allergens.\n*   **Be Aware:** Be aware of your surroundings and avoid walking in cold temperatures.\n*   **Check Your Medications:** If you have asthma medications, make sure they are up-to-date and that you are taking them as prescribed.\n*   **Seek Medical Advice:** If you are experiencing persistent symptoms of asthma, such as difficulty breathing, wheezing, or chest tightness, or if you are concerned about your asthma, see your doctor.\n\nIt's also important to remember that asthma is a chronic condition that can be managed with proper care and lifestyle changes.",
+        "tempo_geracao": 4.15
+    },
+    {
+        "prompt": "the next question is about asthma, Can asthma itself cause side effects?",
+        "resposta": "Yes, asthma can cause side effects.",
+        "tempo_geracao": 1.15
+    },
+    {
+        "prompt": "the next question is about asthma, Can tiredness and forgetfulness be caused by my asthma medication?",
+        "resposta": "Yes, tiredness and forgetfulness can be caused by your asthma medication.",
+        "tempo_geracao": 1.29
+    },
+    {
+        "prompt": "the next question is about asthma, Do inhaled corticosteroids cause any long-term side effects?",
+        "resposta": "Yes, inhaled corticosteroids can cause long-term side effects.",
+        "tempo_geracao": 1.23
+    },
+    {
+        "prompt": "the next question is about asthma, Is it good for me to always use inhaled corticosteroids?",
+        "resposta": "Yes, it is generally considered good for you to use inhaled corticosteroids, but it's important to understand the potential risks and benefits.",
+        "tempo_geracao": 1.56
+    },
+    {
+        "prompt": "the next question is about asthma, Can I become addicted to the corticosteroids in asthma medications?",
+        "resposta": "Yes, you can become addicted to the corticosteroids in asthma medications.",
+        "tempo_geracao": 1.22
+    },
+    {
+        "prompt": "the next question is about asthma, Why can I use inhaled corticosteroids for many years, but corticosteroid cream on my skin for only a short period?",
+        "resposta": "The next question is about asthma, and why can you use inhaled corticosteroids for many years, but corticosteroid cream on your skin for only a short period.",
+        "tempo_geracao": 1.5
+    },
+    {
+        "prompt": "the next question is about asthma, Do I need to rinse out my mouth after using an inhaled corticosteroid?",
+        "resposta": "Yes, you absolutely need to rinse out your mouth after using an inhaled corticosteroid (ICS).",
+        "tempo_geracao": 1.33
+    },
+    {
+        "prompt": "the next question is about asthma, If I can’t remember whether I actually took my daily maintenance dose of inhaled corticosteriod, is it better to risk taking a double dose or none at all?",
+        "resposta": "The answer to the question is **better to risk taking a double dose of inhaled corticosteroids, or none at all**.",
+        "tempo_geracao": 1.41
+    },
+    {
+        "prompt": "the next question is about asthma, What can I do to prevent osteoporosis?",
+        "resposta": "The next question about asthma is: **What can I do to prevent osteoporosis?**",
+        "tempo_geracao": 1.29
+    },
+    {
+        "prompt": "the next question is about asthma, Do infections cause asthma?",
+        "resposta": "Yes, infections can cause asthma.",
+        "tempo_geracao": 1.21
+    },
+    {
+        "prompt": "the next question is about asthma, Do infections trigger asthma?",
+        "resposta": "Yes, infections can trigger asthma.",
+        "tempo_geracao": 1.14
+    },
+    {
+        "prompt": "the next question is about asthma, Why don’t antibiotics help against asthmatic inflammation in the airways?",
+        "resposta": "The next question is about asthma, and why don't antibiotics help against asthmatic inflammation in the airways.",
+        "tempo_geracao": 1.45
+    },
+    {
+        "prompt": "the next question is about asthma, Is asthma contagious?",
+        "resposta": "Yes, asthma is contagious.",
+        "tempo_geracao": 1.15
+    },
+    {
+        "prompt": "the next question is about asthma, Is it good for people with asthma to exercise?",
+        "resposta": "Yes, it is generally good for people with asthma to exercise.",
+        "tempo_geracao": 1.29
+    },
+    {
+        "prompt": "the next question is about asthma, Exercise is good for you. So why can it cause asthma symptoms?",
+        "resposta": "The next question is about asthma symptoms.",
+        "tempo_geracao": 1.13
+    },
+    {
+        "prompt": "the next question is about asthma, How can I avoid exercise-induced asthma?",
+        "resposta": "Okay, let's delve into the next question about asthma avoidance. \n\nThe key to preventing asthma is to find an asthma-friendly environment and avoid exercise. Here are some practical tips:\n\n*   **Stay indoors:** This is the most important step. Minimize exposure to air pollution, allergens, and other irritants.\n*   **Use air purifiers:** These devices can help to filter air pollutants and reduce the risk of asthma triggers.\n*   **Limit exposure to allergens:** Avoid exposure to dust, pollen, pet dander, and other allergens.\n*   **Maintain a healthy lifestyle:** A balanced diet, regular exercise, and adequate sleep can help to reduce the risk of asthma.\n*   **Be aware of your surroundings:** Pay attention to your environment and be mindful of potential triggers.\n\nIt's important to remember that asthma is a chronic condition that requires ongoing management. Regular checkups and appropriate treatment are essential for preventing asthma attacks and improving your quality of life.",
+        "tempo_geracao": 3.62
+    },
+    {
+        "prompt": "the next question is about asthma, Are some kind of physical activities more suitable for people with asthma?",
+        "resposta": "Yes, some kind of physical activities are more suitable for people with asthma.",
+        "tempo_geracao": 1.23
+    },
+    {
+        "prompt": "the next question is about asthma, How intensively do I dare to exercise?",
+        "resposta": "The next question about asthma is about how intensively you dare to exercise.",
+        "tempo_geracao": 1.31
+    },
+    {
+        "prompt": "the next question is about asthma, I often feel my asthma when I jog. Do I have to quit jogging?",
+        "resposta": "Yes, you absolutely need to quit jogging to avoid asthma.",
+        "tempo_geracao": 1.22
+    },
+    {
+        "prompt": "the next question is about asthma, What should I do if I get asthma symptoms while exercising?",
+        "resposta": "The next question is about asthma symptoms while exercising.",
+        "tempo_geracao": 1.27
+    },
+    {
+        "prompt": "the next question is about asthma, Can I take asthma medications and still take part in competitive sports?",
+        "resposta": "Yes, you can take asthma medications and still participate in competitive sports.",
+        "tempo_geracao": 1.3
+    },
+    {
+        "prompt": "the next question is about asthma, Is asthma related to other chronic diseases, such as rheumatism and diabetes?",
+        "resposta": "Yes, asthma is generally considered to be related to other chronic diseases such as rheumatism and diabetes.",
+        "tempo_geracao": 1.3
+    },
+    {
+        "prompt": "the next question is about asthma, What is the difference between asthma and COPD (chronic obstructive lung disease)?",
+        "resposta": "The next question is about asthma and COPD.",
+        "tempo_geracao": 1.24
+    },
+    {
+        "prompt": "the next question is about asthma, Is emphysema the same as asthma?",
+        "resposta": "Yes, emphysema is the same as asthma.",
+        "tempo_geracao": 1.17
+    },
+    {
+        "prompt": "the next question is about asthma, What climate is best for a person with asthma?",
+        "resposta": "The climate that best suits a person with asthma is generally considered to be **mild and temperate**.",
+        "tempo_geracao": 1.34
+    },
+    {
+        "prompt": "the next question is about asthma, Are relaxing exercises good for my asthma?",
+        "resposta": "Yes, relaxing exercises are generally considered good for asthma. They can help to reduce anxiety, improve sleep, and promote relaxation.",
+        "tempo_geracao": 1.37
+    },
+    {
+        "prompt": "the next question is about asthma, Is there a good breathing technique to use when my asthma symptoms get worse?",
+        "resposta": "Yes, there is a good breathing technique to use when your asthma symptoms get worse. It's important to listen to your body and adjust your breathing accordingly.",
+        "tempo_geracao": 1.44
+    },
+    {
+        "prompt": "the next question is about asthma, How does asthma affect my choice of a professional career?",
+        "resposta": "The next question about asthma affects your choice of a professional career is: **How does asthma affect my choice of a professional career?**",
+        "tempo_geracao": 1.45
+    },
+    {
+        "prompt": "the next question is about asthma, Sometimes people have trouble understanding that I cant cope with perfumes and smoke. What can I do?",
+        "resposta": "It's understandable that you're feeling overwhelmed and unsure about your asthma. It's a common challenge, and there are many things you can do to manage your symptoms and improve your well-being. Here are some things you can try:\n\n*   **Identify your triggers:** What situations, smells, or even specific noises trigger your asthma symptoms? Understanding your triggers can help you develop strategies for coping.\n*   **Practice good breathing techniques:** Deep, controlled breaths can help calm your airways and reduce inflammation. Try inhaling slowly and deeply through your nose, and exhaling slowly and completely through your mouth.\n*   **Stay hydrated:** Adequate hydration is crucial for maintaining healthy lungs and airways. Drink plenty of water throughout the day.\n*   **Get enough sleep:** Sleep deprivation can worsen asthma symptoms. Aim for 7-9 hours of quality sleep each night.\n*   **Manage stress:** Stress can trigger asthma symptoms. Find healthy ways to manage stress, such as exercise, meditation, or spending time in nature.\n*   **Talk to your doctor:** If your asthma is severe, persistent, or accompanied by other symptoms like chest pain, shortness of breath, coughing, or wheezing, see your doctor. They can help you determine the underlying cause and recommend appropriate treatment.\n\nIt's important to remember that asthma is a chronic condition, and managing it effectively is a journey, not a destination. Be patient with yourself and don't hesitate to seek professional help if you're struggling.",
+        "tempo_geracao": 4.84
+    },
+    {
+        "prompt": "the next question is about asthma, Can I have pets even though I have asthma?",
+        "resposta": "Yes, you can absolutely have pets even though you have asthma! It's a common misconception that pets are inherently dangerous or require special care.",
+        "tempo_geracao": 1.42
+    },
+    {
+        "prompt": "the next question is about asthma, When I went to Spain on holiday I felt great – should I move there?",
+        "resposta": "Yes, it is perfectly reasonable to move to Spain if you feel great afterwards. Moving to Spain is a great option for many people, offering a variety of experiences and benefits.",
+        "tempo_geracao": 1.51
+    },
+    {
+        "prompt": "the next question is about asthma, My asthma means that I have to miss out on activities that are important to me, such as dancing. This makes me sad and angry. What can I do?",
+        "resposta": "It's completely understandable that you're feeling sad and angry when you're experiencing asthma. It's a common and challenging condition, and it's important to understand that it's not a sign of weakness.\n\nHere are some things you can do to cope with your asthma and manage your symptoms:\n\n*   **Stay Hydrated:** Drink plenty of fluids throughout the day, including water, herbal tea, and broth. Avoid sugary drinks and caffeine, as these can worsen your symptoms.\n*   **Eat a Healthy Diet:** Focus on eating nutritious foods that provide sustained energy. Avoid processed foods, sugary snacks, and excessive amounts of caffeine.\n*   **Get Enough Sleep:** Aim for 7-9 hours of quality sleep per night. Sleep deprivation can worsen your asthma symptoms.\n*   **Manage Your Stress:** Practice relaxation techniques like deep breathing, meditation, or yoga. Stress can exacerbate asthma symptoms.\n*   **Talk to Your Doctor:** Your doctor can provide personalized advice and help you manage your asthma. They can also rule out other potential causes of your symptoms.\n*   **Be Patient:** Managing asthma can take time and effort. Don's be patient with yourself and celebrate your progress along the way.\n\nIt's important to remember that asthma is a chronic condition, and it's okay to have days when you feel better. If you're struggling to manage your asthma, don't hesitate to seek professional help from a doctor or asthma specialist.",
+        "tempo_geracao": 4.95
+    },
+    {
+        "prompt": "the next question is about asthma, Can asthma medication help prevent asthma symptoms?",
+        "resposta": "Yes, asthma medication can help prevent asthma symptoms.",
+        "tempo_geracao": 1.2
+    },
+    {
+        "prompt": "the next question is about asthma, Why does my asthma get worse when I am upset or worried about something?",
+        "resposta": "Asthma can get worse when you're upset or worried about something. This is because the airways in your lungs become inflamed and irritated. When you're feeling stressed or anxious, your body's natural defenses are weakened, and the airways become more prone to inflammation and narrowing. This can lead to a more severe and persistent cough, shortness of breath, and chest tightness.",
+        "tempo_geracao": 2.13
+    }
+]

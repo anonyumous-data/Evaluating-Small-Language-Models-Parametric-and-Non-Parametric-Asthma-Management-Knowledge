@@ -1,0 +1,790 @@
+ESTATÍSTICAS DE GPU - MODO BYPASS
+Modelo: gemma3-4b-it-qat
+Total de prompts: 88
+Tempo total de execução: 1709.61s
+Tempo médio por prompt: 19.42s
+====================================================================================================
+
+
+Prompt 2: the next question is about asthma, How does inflammation of the airways affect my asthma?
+Tempo de geração: 22.74s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6785.5 MB (max: 6785.5 MB)
+    Temperatura: 62.0°C (max: 62.0°C)
+    Potência: 132.4 W (max: 132.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 3: the next question is about asthma, What is inflammation in the airways?
+Tempo de geração: 16.45s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6823.6 MB (max: 6823.6 MB)
+    Temperatura: 63.0°C (max: 63.0°C)
+    Potência: 132.5 W (max: 132.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 4: the next question is about asthma, Who gets asthma?
+Tempo de geração: 18.41s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6718.4 MB (max: 6718.4 MB)
+    Temperatura: 64.0°C (max: 64.0°C)
+    Potência: 129.9 W (max: 129.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 5: the next question is about asthma, At what age does asthma start?
+Tempo de geração: 10.11s
+  GPU 0:
+    Utilização: 60.0% (max: 60.0%)
+    Memória: 6768.3 MB (max: 6768.3 MB)
+    Temperatura: 64.0°C (max: 64.0°C)
+    Potência: 129.4 W (max: 129.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 6: the next question is about asthma, What causes asthma?
+Tempo de geração: 17.29s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6151.8 MB (max: 6151.8 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 126.9 W (max: 126.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 7: the next question is about asthma, Is asthma a chronic disease?
+Tempo de geração: 7.52s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6186.2 MB (max: 6186.2 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 125.2 W (max: 125.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 8: the next question is about asthma, Is there a risk that my asthma will get worse with age?
+Tempo de geração: 17.43s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6198.2 MB (max: 6198.2 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 126.2 W (max: 126.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 9: the next question is about asthma, Is it worse getting asthma when you are old?
+Tempo de geração: 17.28s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6192.0 MB (max: 6192.0 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 131.4 W (max: 131.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 10: the next question is about asthma, What is known about asthma?
+Tempo de geração: 28.23s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6202.7 MB (max: 6202.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 141.4 W (max: 141.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 11: the next question is about asthma, What causes asthma symptoms or an asthma attack?
+Tempo de geração: 20.09s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6231.8 MB (max: 6231.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 135.5 W (max: 135.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 12: the next question is about asthma, What are asthma triggers?
+Tempo de geração: 19.86s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6140.9 MB (max: 6140.9 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 133.5 W (max: 133.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 13: the next question is about asthma, What are the main asthma triggers?
+Tempo de geração: 20.17s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6136.8 MB (max: 6136.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 139.3 W (max: 139.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 14: the next question is about asthma, What chemicals, irritants or other substances trigger asthma?
+Tempo de geração: 24.42s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6159.0 MB (max: 6159.0 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 135.3 W (max: 135.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 15: the next question is about asthma, Can medications trigger asthma?
+Tempo de geração: 21.33s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6096.8 MB (max: 6096.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 130.2 W (max: 130.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 16: the next question is about asthma, Can weather changes trigger asthma?
+Tempo de geração: 16.66s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6081.4 MB (max: 6081.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 135.2 W (max: 135.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 17: the next question is about asthma, Can infections trigger asthma?
+Tempo de geração: 16.53s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6081.4 MB (max: 6081.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 132.7 W (max: 132.7 W)
+--------------------------------------------------------------------------------
+
+Prompt 18: the next question is about asthma, Can an allergic reaction trigger asthma?
+Tempo de geração: 12.19s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6080.9 MB (max: 6080.9 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.1 W (max: 138.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 19: the next question is about asthma, Is asthma a psychological (psychosomatic) disease?
+Tempo de geração: 18.80s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6079.1 MB (max: 6079.1 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 139.6 W (max: 139.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 20: the next question is about asthma, Why is it sometimes so hard to know what triggers an asthma attac
+Tempo de geração: 20.18s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6079.1 MB (max: 6079.1 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.1 W (max: 138.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 21: the next question is about asthma, Can I really get asthma symptoms from a plastic Christmas tree?
+Tempo de geração: 18.27s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6081.3 MB (max: 6081.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 131.8 W (max: 131.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 22: the next question is about asthma, What does asthma feel like?
+Tempo de geração: 16.47s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6079.1 MB (max: 6079.1 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 127.6 W (max: 127.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 23: the next question is about asthma, What happens during an asthma attack?
+Tempo de geração: 21.03s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6079.1 MB (max: 6079.1 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 130.5 W (max: 130.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 24: the next question is about asthma, What causes an asthma attack?
+Tempo de geração: 20.58s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6079.1 MB (max: 6079.1 MB)
+    Temperatura: 67.0°C (max: 67.0°C)
+    Potência: 138.3 W (max: 138.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 25: the next question is about asthma, What are the signs of a severe and dangerous asthma attack?
+Tempo de geração: 16.87s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6083.8 MB (max: 6083.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 134.1 W (max: 134.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 26: the next question is about asthma, Can a person die from asthma?
+Tempo de geração: 14.87s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6079.7 MB (max: 6079.7 MB)
+    Temperatura: 67.0°C (max: 67.0°C)
+    Potência: 140.3 W (max: 140.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 27: the next question is about asthma, Why do I lose my breath?
+Tempo de geração: 22.70s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6079.7 MB (max: 6079.7 MB)
+    Temperatura: 67.0°C (max: 67.0°C)
+    Potência: 140.1 W (max: 140.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 28: the next question is about asthma, How do I know if I am having an asthma attack?
+Tempo de geração: 19.79s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6079.7 MB (max: 6079.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 137.8 W (max: 137.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 29: the next question is about asthma, Can the peak flow meter tell me if I need to see the doctor?
+Tempo de geração: 19.31s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6079.7 MB (max: 6079.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 129.7 W (max: 129.7 W)
+--------------------------------------------------------------------------------
+
+Prompt 30: the next question is about asthma, Can my asthma be cured?
+Tempo de geração: 20.56s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6079.7 MB (max: 6079.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 124.6 W (max: 124.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 31: the next question is about asthma, Can I outgrow my asthma?
+Tempo de geração: 20.04s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6079.7 MB (max: 6079.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 140.2 W (max: 140.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 32: the next question is about asthma, Is asthma a life-long disease?
+Tempo de geração: 11.70s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6079.7 MB (max: 6079.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 134.5 W (max: 134.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 33: the next question is about asthma, How can I avoid common triggers?
+Tempo de geração: 25.47s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6078.4 MB (max: 6078.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 130.5 W (max: 130.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 34: the next question is about asthma, What can I do to improve my home environment in general?
+Tempo de geração: 23.52s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6076.9 MB (max: 6076.9 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 141.5 W (max: 141.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 35: the next question is about asthma, I’m allergic to pets/furry animals, what can I do?
+Tempo de geração: 24.99s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6078.3 MB (max: 6078.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 142.9 W (max: 142.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 36: the next question is about asthma, Should I get a central vacuum cleaner?
+Tempo de geração: 22.60s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6075.2 MB (max: 6075.2 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 133.2 W (max: 133.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 37: the next question is about asthma, I’m allergic to dust mites, what can I do?
+Tempo de geração: 23.11s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6075.2 MB (max: 6075.2 MB)
+    Temperatura: 67.0°C (max: 67.0°C)
+    Potência: 138.9 W (max: 138.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 38: the next question is about asthma, Can I reduce my asthma if I get an air purifier?
+Tempo de geração: 21.56s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6076.5 MB (max: 6076.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 133.3 W (max: 133.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 39: the next question is about asthma, Can acupuncture help my asthma?
+Tempo de geração: 22.93s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6061.8 MB (max: 6061.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 141.0 W (max: 141.0 W)
+--------------------------------------------------------------------------------
+
+Prompt 40: the next question is about asthma, What are controllers?
+Tempo de geração: 15.87s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6061.2 MB (max: 6061.2 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 136.0 W (max: 136.0 W)
+--------------------------------------------------------------------------------
+
+Prompt 41: the next question is about asthma, What are relievers?
+Tempo de geração: 14.81s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6063.8 MB (max: 6063.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 131.2 W (max: 131.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 42: the next question is about asthma, What are combination medications?
+Tempo de geração: 23.30s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6060.8 MB (max: 6060.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.9 W (max: 138.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 43: the next question is about asthma, What effects do anti-inflammatory medications have?
+Tempo de geração: 19.28s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6060.8 MB (max: 6060.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 134.3 W (max: 134.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 44: the next question is about asthma, What effects do airway opener medications have?
+Tempo de geração: 19.34s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6062.0 MB (max: 6062.0 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 142.0 W (max: 142.0 W)
+--------------------------------------------------------------------------------
+
+Prompt 45: the next question is about asthma, What are glucocorticosteroids?
+Tempo de geração: 19.45s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6062.7 MB (max: 6062.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 132.8 W (max: 132.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 46: the next question is about asthma, Why are glucocorticosteriod medications inhaled?
+Tempo de geração: 13.99s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6066.9 MB (max: 6066.9 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 139.8 W (max: 139.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 47: the next question is about asthma, When and why are corticosteroid tablets or injections used?
+Tempo de geração: 17.51s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6061.9 MB (max: 6061.9 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.3 W (max: 138.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 48: the next question is about asthma, What is the difference between a corticosteroid and an anabolic s
+Tempo de geração: 15.98s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6061.1 MB (max: 6061.1 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 137.9 W (max: 137.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 49: the next question is about asthma, What are inhaled non-steroidal anti-inflammatory medications?
+Tempo de geração: 15.09s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6061.1 MB (max: 6061.1 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 140.7 W (max: 140.7 W)
+--------------------------------------------------------------------------------
+
+Prompt 50: the next question is about asthma, Is there an effective alternative to using inhaled corticosteroid
+Tempo de geração: 23.29s
+  GPU 0:
+    Utilização: 67.0% (max: 67.0%)
+    Memória: 6062.5 MB (max: 6062.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 123.3 W (max: 123.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 51: the next question is about asthma, Do I still need my inhaled corticosteroid if I feel OK?
+Tempo de geração: 17.27s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6062.4 MB (max: 6062.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 139.1 W (max: 139.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 52: the next question is about asthma, What anti-inflammatory medication can I take for a strained muscl
+Tempo de geração: 25.14s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6061.8 MB (max: 6061.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 141.2 W (max: 141.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 53: the next question is about asthma, What is hyposensitisation (vaccination)?
+Tempo de geração: 15.88s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6061.8 MB (max: 6061.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 141.6 W (max: 141.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 54: the next question is about asthma, I’m troubled by my asthma when outdoors in cold weather. What can
+Tempo de geração: 23.46s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6061.0 MB (max: 6061.0 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 135.6 W (max: 135.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 55: the next question is about asthma, Can asthma itself cause side effects?
+Tempo de geração: 17.95s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6062.3 MB (max: 6062.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 137.4 W (max: 137.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 56: the next question is about asthma, Can tiredness and forgetfulness be caused by my asthma medication
+Tempo de geração: 25.28s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6062.3 MB (max: 6062.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 133.6 W (max: 133.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 57: the next question is about asthma, Do inhaled corticosteroids cause any long-term side effects?
+Tempo de geração: 19.33s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6062.3 MB (max: 6062.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 122.1 W (max: 122.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 58: the next question is about asthma, Is it good for me to always use inhaled corticosteroids?
+Tempo de geração: 24.64s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6062.5 MB (max: 6062.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 137.7 W (max: 137.7 W)
+--------------------------------------------------------------------------------
+
+Prompt 59: the next question is about asthma, Can I become addicted to the corticosteroids in asthma medication
+Tempo de geração: 20.73s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6068.9 MB (max: 6068.9 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 140.6 W (max: 140.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 60: the next question is about asthma, Why can I use inhaled corticosteroids for many years, but cortico
+Tempo de geração: 14.67s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6061.5 MB (max: 6061.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 134.6 W (max: 134.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 61: the next question is about asthma, Do I need to rinse out my mouth after using an inhaled corticoste
+Tempo de geração: 14.35s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6073.3 MB (max: 6073.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 135.5 W (max: 135.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 62: the next question is about asthma, If I can’t remember whether I actually took my daily maintenance 
+Tempo de geração: 17.97s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6061.5 MB (max: 6061.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 129.2 W (max: 129.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 63: the next question is about asthma, What can I do to prevent osteoporosis?
+Tempo de geração: 25.71s
+  GPU 0:
+    Utilização: 60.0% (max: 60.0%)
+    Memória: 6061.5 MB (max: 6061.5 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 123.8 W (max: 123.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 64: the next question is about asthma, Do infections cause asthma?
+Tempo de geração: 18.07s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6071.3 MB (max: 6071.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 136.4 W (max: 136.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 65: the next question is about asthma, Do infections trigger asthma?
+Tempo de geração: 16.22s
+  GPU 0:
+    Utilização: 59.0% (max: 59.0%)
+    Memória: 6062.5 MB (max: 6062.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 137.5 W (max: 137.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 66: the next question is about asthma, Why don’t antibiotics help against asthmatic inflammation in the 
+Tempo de geração: 14.14s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6068.5 MB (max: 6068.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 127.9 W (max: 127.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 67: the next question is about asthma, Is asthma contagious?
+Tempo de geração: 9.26s
+  GPU 0:
+    Utilização: 59.0% (max: 59.0%)
+    Memória: 6061.5 MB (max: 6061.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.5 W (max: 138.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 68: the next question is about asthma, Is it good for people with asthma to exercise?
+Tempo de geração: 16.50s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6061.5 MB (max: 6061.5 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.5 W (max: 138.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 69: the next question is about asthma, Exercise is good for you. So why can it cause asthma symptoms?
+Tempo de geração: 16.68s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6062.4 MB (max: 6062.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 133.1 W (max: 133.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 70: the next question is about asthma, How can I avoid exercise-induced asthma?
+Tempo de geração: 21.31s
+  GPU 0:
+    Utilização: 65.0% (max: 65.0%)
+    Memória: 6062.4 MB (max: 6062.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 132.7 W (max: 132.7 W)
+--------------------------------------------------------------------------------
+
+Prompt 71: the next question is about asthma, Are some kind of physical activities more suitable for people wit
+Tempo de geração: 18.36s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6061.6 MB (max: 6061.6 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 136.2 W (max: 136.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 72: the next question is about asthma, How intensively do I dare to exercise?
+Tempo de geração: 26.07s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6062.4 MB (max: 6062.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 116.2 W (max: 116.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 73: the next question is about asthma, I often feel my asthma when I jog. Do I have to quit jogging?
+Tempo de geração: 22.01s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6061.9 MB (max: 6061.9 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.3 W (max: 138.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 74: the next question is about asthma, What should I do if I get asthma symptoms while exercising?
+Tempo de geração: 21.14s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6062.8 MB (max: 6062.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 128.9 W (max: 128.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 75: the next question is about asthma, Can I take asthma medications and still take part in competitive 
+Tempo de geração: 22.24s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6061.8 MB (max: 6061.8 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 136.4 W (max: 136.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 76: the next question is about asthma, Is asthma related to other chronic diseases, such as rheumatism a
+Tempo de geração: 18.50s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6062.7 MB (max: 6062.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 137.4 W (max: 137.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 77: the next question is about asthma, What is the difference between asthma and COPD (chronic obstructi
+Tempo de geração: 19.70s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6063.0 MB (max: 6063.0 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 127.0 W (max: 127.0 W)
+--------------------------------------------------------------------------------
+
+Prompt 78: the next question is about asthma, Is emphysema the same as asthma?
+Tempo de geração: 15.33s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6062.7 MB (max: 6062.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 139.6 W (max: 139.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 79: the next question is about asthma, What climate is best for a person with asthma?
+Tempo de geração: 17.72s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6061.4 MB (max: 6061.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 136.4 W (max: 136.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 80: the next question is about asthma, Are relaxing exercises good for my asthma?
+Tempo de geração: 19.28s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6061.4 MB (max: 6061.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 141.1 W (max: 141.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 81: the next question is about asthma, Is there a good breathing technique to use when my asthma symptom
+Tempo de geração: 21.97s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6061.4 MB (max: 6061.4 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 134.6 W (max: 134.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 82: the next question is about asthma, How does asthma affect my choice of a professional career?
+Tempo de geração: 27.06s
+  GPU 0:
+    Utilização: 60.0% (max: 60.0%)
+    Memória: 6061.8 MB (max: 6061.8 MB)
+    Temperatura: 65.0°C (max: 65.0°C)
+    Potência: 123.4 W (max: 123.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 83: the next question is about asthma, Sometimes people have trouble understanding that I cant cope with
+Tempo de geração: 23.56s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6062.7 MB (max: 6062.7 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.7 W (max: 138.7 W)
+--------------------------------------------------------------------------------
+
+Prompt 84: the next question is about asthma, Can I have pets even though I have asthma?
+Tempo de geração: 21.30s
+  GPU 0:
+    Utilização: 66.0% (max: 66.0%)
+    Memória: 6069.0 MB (max: 6069.0 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 125.8 W (max: 125.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 85: the next question is about asthma, When I went to Spain on holiday I felt great – should I move ther
+Tempo de geração: 21.23s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6061.3 MB (max: 6061.3 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 117.3 W (max: 117.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 86: the next question is about asthma, My asthma means that I have to miss out on activities that are im
+Tempo de geração: 26.23s
+  GPU 0:
+    Utilização: 63.0% (max: 63.0%)
+    Memória: 6061.9 MB (max: 6061.9 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 140.2 W (max: 140.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 87: the next question is about asthma, Can asthma medication help prevent asthma symptoms?
+Tempo de geração: 16.72s
+  GPU 0:
+    Utilização: 64.0% (max: 64.0%)
+    Memória: 6064.6 MB (max: 6064.6 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 139.8 W (max: 139.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 88: the next question is about asthma, Why does my asthma get worse when I am upset or worried about som
+Tempo de geração: 23.91s
+  GPU 0:
+    Utilização: 61.0% (max: 61.0%)
+    Memória: 6061.6 MB (max: 6061.6 MB)
+    Temperatura: 66.0°C (max: 66.0°C)
+    Potência: 138.2 W (max: 138.2 W)
+--------------------------------------------------------------------------------

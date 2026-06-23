@@ -1,0 +1,894 @@
+﻿indice,pergunta,referencia,predicao,bert_precision,bert_recall,bert_f1,bleu,rouge1,rouge2,rougeL
+0,,"Asthma is a disease of the airways in the lungs. Its symptoms are caused by inflammation, which makes the airways red, swollen, narrower and extra-sensitive to irritants. This leads to recurrent attacks of wheezing, breathlessness, chest tightness and coughing. Mild attacks can settle down without treatment, but treatment usually helps them to resolve more quickly. Appropriate treatment can also reduce the risk of further attacks. If you experience a serious attack you should seek emergency help.
+Asthma is a long-term (chronic) disease. Your asthma does not stay the same, but changes over time, and every person with asthma has good and bad days (or longer periods of time).
+Asthma is very common. Around one out of every ten people in the Western World develops asthma at some stage in their life.","Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to difficulty in breathing. Symptoms include wheezing, shortness of breath, chest tightness, and coughing, often triggered by allergens, exercise, cold air, or respiratory infections. It is managed through medications like inhaled corticosteroids and bronchodilators, and by avoiding known triggers.",0.755165,0.713697,0.733846,0.0,0.245989,0.086486,0.171123
+1,,"Inflammation of the airways causes asthma symptoms (wheezing, breathlessness, chest tightness and coughing) by restricting or limiting the airflow to and from the lungs. It does this by causing:
+
+    swelling of the airways, which makes them narrower
+    tightening of the muscles that surround the airways (also called bronchoconstriction), which makes them even narrower
+    the production of too much mucus, which can plug up or block the airways
+    longer-term damage to the walls of the airways, which prevents them from opening as widely as a normal airway.
+
+When the airways have been inflamed for a long time, they become extra-sensitive. This means that they react faster and more strongly to various triggers, such as allergens, viruses, dust, smoke and stress.","Inflammation of the airways in asthma leads to swelling and narrowing of the air passages, making it difficult to breathe. This inflammation can cause increased mucus production, which further obstructs airflow. During an asthma attack, the muscles around the airways tighten, exacerbating the difficulty in breathing. Managing inflammation through medications like corticosteroids is crucial in controlling asthma symptoms and preventing attacks.",0.760363,0.713375,0.73612,0.026319,0.274725,0.077778,0.186813
+2,,"Inflammation is a reaction to infections and other triggers in the lining of the airways and the underlying tissue. The inflammation makes the airways become red, swollen, narrower and extra-sensitive.","Inflammation in the airways is a key feature of asthma, characterized by swelling and irritation of the airway lining. This inflammation can lead to narrowing of the airways, increased mucus production, and hyper-responsiveness to various stimuli, such as allergens, irritants, or exercise. These changes result in symptoms like wheezing, coughing, chest tightness, and shortness of breath. Inflammation is often triggered by environmental factors, allergens, infections, or stress, and is managed through medications like corticosteroids and bronchodilators to reduce swelling and open the airways.",0.702014,0.777411,0.737791,0.0,0.313043,0.106195,0.226087
+3,,"Asthma tends to run in families, which means that you are more likely to develop asthma if someone in your family already has it. Children with eczema or food allergy are more likely than other children to develop asthma.
+
+Allergy to pollen, house dust mites or pets also increases your chance of developing asthma. Exposure to tobacco smoke, air pollution or other inhaled irritants can also cause asthma symptoms in those with an underlying tendency to asthma.","Asthma is a chronic respiratory condition that can affect individuals of any age, race, or gender. However, it is more prevalent in certain populations. According to the Centers for Disease Control and Prevention (CDC), asthma affects approximately 25 million people in the United States, with a higher incidence in children and adolescents.
+
+Risk factors for developing asthma include:
+
+1. Genetic predisposition: Having a family history of asthma or other allergic conditions increases the likelihood of developing asthma.
+2. Environmental factors: Exposure to allergens such as dust mites, pet dander, pollen, and mold can trigger asthma symptoms.
+3. Respiratory infections: Frequent respiratory infections during childhood can increase the risk of developing asthma.
+4. Lifestyle factors: Smoking and exposure to secondhand smoke, air pollution, and occupational irritants can contribute to the development of asthma.
+
+It is important to note that while some individuals may have a higher risk of developing asthma due to these factors, anyone can develop the condition. Early diagnosis and management are crucial in controlling symptoms and preventing complications.",0.702208,0.777034,0.737728,0.042468,0.315789,0.073469,0.210526
+4,,"Asthma can start at any age, although about half of all people with asthma have had their first symptoms by the age of 10, and many children with asthma have had their first asthma attack before the age of 6.","Asthma can begin at any age, but it is most commonly diagnosed in childhood. According to the Centers for Disease Control and Prevention (CDC), about 1 in 13 children in the United States have asthma. However, it can also develop in adults, and the onset of asthma in adulthood is increasingly common. The exact age of onset can vary widely among individuals.",0.721348,0.791809,0.754938,0.055125,0.313725,0.08,0.254902
+5,,"The causes of asthma are not fully understood. Asthma is probably usually caused by a mixture of hereditary factors (those you are born with) and environmental factors, but how these factors work together is still largely unknown.
+
+Allergens from house dust mites and pets are the most common causes, but many other allergens, such as pollen and moulds, can cause asthma. Some patients with asthma have no obvious allergies.","Asthma is a chronic inflammatory disease of the airways that can be triggered by various factors. The exact cause of asthma is not fully understood, but it is believed to result from a combination of genetic and environmental factors. Some common triggers include:
+
+1. Allergens: Pollen, dust mites, mold spores, pet dander, and cockroach debris can trigger asthma symptoms.
+2. Respiratory infections: Viral infections like the common cold or flu can exacerbate asthma symptoms.
+3. Exercise: Physical activity can trigger exercise-induced bronchoconstriction in some individuals.
+4. Air pollutants: Exposure to pollutants such as smoke, chemical fumes, and ozone can worsen asthma.
+5. Stress and strong emotions: These can lead to hyperventilation and trigger asthma symptoms.
+6. Weather changes: Cold air, humidity, and other weather conditions can provoke asthma attacks.
+
+It's important to note that while these factors can trigger asthma symptoms, they do not cause the underlying condition. Asthma is primarily a result of an overactive immune response and inflammation in the airways.",0.699465,0.771848,0.733876,0.0,0.307692,0.077586,0.205128
+6,,"Yes. Asthma is a chronic (long-term) disease that causes inflammation and narrowing of the airways. Some degree of inflammation is usually present, even at times when you are unaware of any symptoms.
+
+If your asthma is untreated, you will have repeated attacks of asthma symptoms.
+
+Mild attacks can settle down without treatment, but treatment usually helps them to resolve more quickly. Appropriate treatment can also reduce the risk of further attacks. If you experience a serious attack you should seek emergency help.
+
+Your asthma does not stay the same, but changes over time, and every person with asthma has good and bad days (or longer periods of time). However, if asthma is properly treated, you may enjoy long periods without symptoms or attacks.","Yes, asthma is a chronic disease characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing. It requires long-term management and treatment to control symptoms and prevent exacerbations.",0.764628,0.697175,0.729345,0.021203,0.256098,0.123457,0.207317
+7,,"Yes, that risk cannot be disregarded. Poorly treated asthma gets worse with age, and the lungs of people with untreated asthma function less well than those of non-asthmatic individuals. Modern asthma treatments have not been available for long enough for us to be certain whether or not lung function will still deteriorate more rapidly in people with treated asthma as they grow older. However, most asthma doctors think that regular, preventive asthma treatment can prevent your asthma from getting worse and help to preserve your lung function.","Asthma is a chronic condition that can vary in severity over time. While some individuals may experience worsening symptoms as they age, others may find their symptoms remain stable or even improve. Factors such as environmental exposures, lifestyle changes, and overall health can influence asthma progression. It is important to maintain regular check-ups with a healthcare provider to monitor your condition and adjust treatment as necessary. There is no definitive answer as to whether asthma will worsen with age, as it varies from person to person. Regular monitoring and adjustments in treatment can help manage symptoms effectively.",0.73343,0.747636,0.740465,0.0,0.258065,0.032609,0.139785
+8,,"Not necessarily, but asthma is often more severe if it starts at an older age. In addition, an older person with heart disease or other medical problems may have more difficulty in dealing with an asthma attack than a younger person.
+
+What is called asthma in elderly people is sometimes actually chronic obstructive pulmonary disease (COPD). COPD is a collective name for chronic bronchitis and emphysema, two diseases that are almost always caused by smoking. Many of the symptoms of COPD are similar to those of asthma (e.g. breathlessness, wheezing, production of too much mucus, coughing). COPD is generally a more serious disease than asthma, because the changes in the airways are much more difficult to treat, and it usually has a worse outcome. Unfortunately, COPD can cause greater long-term disability and have a greater effect on the heart and other organ systems than asthma.","Asthma can affect individuals at any age, but the prevalence and severity of asthma can vary with age. In children, asthma is often diagnosed due to environmental factors and allergies. In adults, asthma can be triggered by occupational exposures, stress, or other lifestyle factors. While asthma is not necessarily ""worse"" in older adults, the condition can be more challenging to manage due to age-related changes in lung function and the presence of comorbidities. It is crucial for older adults with asthma to work closely with healthcare providers to manage their condition effectively.",0.749636,0.713798,0.731278,0.0,0.35,0.058824,0.15
+9,,"Asthma is a common and potentially serious chronic disease that imposes a substantial burden on patients, their families and the community. It causes respiratory symptoms, limitation of activity, and flare-ups (attacks) that sometimes require urgent health care and may be fatal.
+
+Fortunately… asthma can be effectively treated and most patients can achieve good control of their asthma. When asthma is under good control, patients can:
+
+    Avoid troublesome symptoms during day and night
+    Need little or no reliever medication
+    Have productive, physically active lives
+    Have normal or near normal lung function
+    Avoid serious asthma flare-ups (exacerbations, or attacks)
+
+What is asthma? Asthma causes symptoms such as wheezing, shortness of breath, chest tightness, and cough that vary over time in their occurrence, frequency and intensity.
+
+These symptoms are associated with variable expiratory airflow, i.e., difficulty breathing air out of the lungs due to bronchoconstriction (airway narrowing), airway wall thickening, and increased mucus. Some variation in airflow can also occur in people without asthma, but it is greater in asthma.
+
+Factors that may trigger or worsen asthma symptoms include viral infections, domestic or occupational allergens (e.g., house dust mite, pollens, cockroach), tobacco smoke, exercise and stress. These responses are more likely when asthma is uncontrolled. Some drugs can induce or trigger asthma, e.g., beta-blockers, and (in some patients) aspirin or other NSAIDs.
+
+Asthma flare-ups (also called exacerbations or attacks) may occur, even in people taking asthma treatment. When asthma is uncontrolled, or in some high-risk patients, these episodes are more frequent and more severe, and may be fatal.
+
+A stepwise approach to treatment takes into account the effectiveness of available medications, their safety, and their cost to the payer or patient.
+
+Regular controller treatment, particularly with inhaled corticosteroid (ICS)-containing medications, markedly reduces the frequency and severity of asthma symptoms and the risk of having a flare-up.
+
+Asthma is a common condition, affecting all levels of society. Olympic athletes, famous leaders and celebrities, and ordinary people live successful and active lives with asthma.","Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing. It is caused by a combination of genetic and environmental factors, including allergens, respiratory infections, and air pollution. Asthma can be classified into different types, such as allergic asthma, non-allergic asthma, and exercise-induced asthma. Management typically involves avoiding triggers, using inhaled corticosteroids, and having a rescue inhaler for acute symptoms. Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing. It is caused by a combination of genetic and environmental factors, including allergens, respiratory infections, and air pollution. Asthma can be classified into different types, such as allergic asthma, non-allergic asthma, and exercise-induced asthma. Management typically involves avoiding triggers, using inhaled corticosteroids, and having a rescue inhaler for acute symptoms. Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing. It is caused by a combination of genetic and environmental factors, including allergens, respiratory infections, and air pollution. Asthma can be classified into different types, such as allergic asthma, non-allergic asthma, and exercise-induced asthma. Management typically involves avoiding triggers, using inhaled corticosteroids, and having a rescue inhaler for acute symptoms. Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing.",0.727093,0.651469,0.687207,0.069376,0.315091,0.066556,0.185738
+10,,"Some causes of symptoms (triggers) are common to all people with asthma, and some are more individual, especially allergens. There are very big differences between people in how easily and how severely they react. The severity of the symptoms or an attack can differ in the same person at different times, and treatment can also be more or less effective.
+
+Your asthma does not stay the same, but changes over time, and every person with asthma has good days and bad days (or longer periods). However, if asthma is properly treated, there can also be long periods without symptoms or attacks.","Asthma symptoms or an asthma attack can be triggered by various factors, including:
+
+1. **Allergens**: Common allergens such as pollen, dust mites, mold spores, pet dander, and cockroach debris can trigger asthma symptoms.
+
+2. **Respiratory Infections**: Viral infections like the common cold or flu can exacerbate asthma symptoms.
+
+3. **Exercise**: Physical activity, especially in cold or dry air, can trigger exercise-induced bronchoconstriction.
+
+4. **Air Pollution**: Exposure to pollutants like smoke, ozone, and particulate matter can worsen asthma symptoms.
+
+5. **Stress and Emotions**: Stress, anxiety, and strong emotions can lead to tightening of the airways.
+
+6. **Weather Changes**: Cold air, humidity, or sudden changes in weather can trigger asthma symptoms.
+
+7. **Medications**: Certain medications, such as beta-blockers, aspirin, and non-steroidal anti-inflammatory drugs (NSAIDs), can trigger asthma symptoms in some individuals.
+
+8. **Occupational Exposures**: Exposure to chemicals, dust, or fumes in the workplace can trigger asthma symptoms.
+
+Understanding these triggers can help in managing asthma effectively by avoiding or minimizing exposure to these factors.",0.610489,0.684648,0.645445,0.0,0.262172,0.037736,0.142322
+11,,"Asthma triggers are factors that start asthma symptoms or an asthma attack by irritating the airways or worsening the inflammation in the airways. These triggers can provoke attacks in individuals who already have a tendency to asthma, but they are not necessarily part of the cause of that tendency. The following triggers can cause asthma symptoms or start an asthma attack:
+
+    infections, usually those caused by a virus (e.g. colds or flu)
+    allergens, most commonly from house dust mites, pets or pollen
+    exercise, especially in cold weather
+    emotions, such as excitement, fear or anger
+    irritants, such as air pollution
+    smoking people with asthma and the parents of asthmatic children should avoid smoking
+    changes in the weather (e.g. a cold spell)
+    pressure on chest
+    food additives, such as tartrazine (an artificial food colouring), or food allergens, such as peanuts (sensitised or allergic individuals can have a very severe allergic reaction).
+    certain medications some people may be allergic to some drugs (e.g. aspirin).
+
+When the airways have been inflamed for a long time, they become extra-sensitive. This means that they react faster and more strongly to various triggers, such as allergens, viruses, dust, smoke and stress.","Asthma triggers are substances or conditions that can cause asthma symptoms to worsen or lead to an asthma attack. Common triggers include:
+
+1. **Allergens**: Such as pollen, dust mites, mold spores, pet dander, and cockroach debris.
+2. **Irritants**: Including smoke, air pollution, chemical fumes, and strong odors.
+3. **Respiratory Infections**: Viral infections like the common cold or flu can exacerbate asthma symptoms.
+4. **Exercise**: Physical activity can trigger exercise-induced bronchoconstriction in some individuals.
+5. **Weather Changes**: Cold air, humidity, and changes in barometric pressure can affect asthma.
+6. **Stress and Emotions**: Stress and strong emotions can lead to tightening of the airways.
+7. **Medications**: Certain medications, like beta-blockers, can trigger asthma symptoms.
+8. **Foods**: Some people may have food allergies that can trigger asthma.
+
+Identifying and avoiding these triggers can help manage asthma symptoms effectively.",0.689977,0.714811,0.702175,0.041283,0.39403,0.126126,0.208955
+12,,"Different triggers can start an asthma attack and people differ a lot in how easily and how severely they react. Some triggers (also called inciters) only cause tightening of the airways (bronchoconstriction) that lasts for just a short time. These triggers include:
+
+    exercise
+    cigarette smoke
+    changes in air temperature
+    laughing
+    strong smells
+
+Other triggers (also called inducers) also increase the underlying inflammation of the airways, and may have longer-term effects. Such triggers include:
+
+    allergens (e.g. pets, house dust mites and pollen)
+    infections (e.g. colds, flu)
+    certain chemicals","The main asthma triggers include:
+
+1. **Allergens**: Such as pollen, dust mites, mold spores, pet dander, and cockroach debris.
+2. **Irritants**: Including smoke, air pollution, chemical fumes, and strong odors.
+3. **Respiratory Infections**: Viral infections like the common cold or flu can exacerbate asthma symptoms.
+4. **Exercise**: Physical activity, especially in cold or dry air, can trigger asthma symptoms.
+5. **Weather Changes**: Cold air, humidity, and changes in barometric pressure can provoke asthma attacks.
+6. **Stress and Emotions**: Stress, anxiety, and strong emotions can lead to tightening of the airways.
+7. **Medications**: Certain medications like beta-blockers and aspirin can trigger asthma in some individuals.
+8. **Foods**: In some cases, foods like dairy or nuts can trigger asthma symptoms.
+
+Identifying and avoiding these triggers is crucial in managing asthma effectively.",0.654824,0.698215,0.675823,0.027546,0.290909,0.06422,0.118182
+13,,"Many irritating particles or chemicals in the air can trigger an asthma attack. Examples include:
+
+        cigarette smoke
+        diesel exhaust
+        perfume or other strong scents
+        household sprays
+        sulphur dioxide ‘
+        grain or flour dust
+        sawdust
+
+Many people with asthma who work at big industrial factories are often irritated by the poor air quality from the chemicals or fumes that are in the air. If this is effecting you then suggest to your employer to look into air systems like Integrated Air Systems Ltd to help stop asthma irritation by improving air quality.
+
+However, there are very big differences between people in how easily and how severely they react. This depends on the severity of the asthma and how well it is treated.","Asthma can be triggered by a variety of chemicals, irritants, and substances, including:
+
+1. **Allergens**: Common allergens such as pollen, dust mites, mold spores, pet dander, and cockroach debris can trigger asthma symptoms.
+
+2. **Irritants**: Exposure to irritants like smoke (from cigarettes, wood fires, or cooking), strong odors, and chemical fumes can provoke asthma attacks.
+
+3. **Cold air**: Breathing in cold air can cause airway constriction and trigger asthma symptoms.
+
+4. **Exercise**: Physical activity, especially in cold or dry air, can lead to exercise-induced bronchoconstriction.
+
+5. **Respiratory infections**: Viral infections like the common cold or flu can exacerbate asthma symptoms.
+
+6. **Stress and emotions**: Stress, anxiety, and strong emotions can lead to hyperventilation and trigger asthma symptoms.
+
+7. **Medications**: Certain medications, such as beta-blockers and aspirin, can trigger asthma in some individuals.
+
+8. **Air pollution**: Pollutants like ozone, nitrogen dioxide, and particulate matter can worsen asthma.
+
+It's important for individuals with asthma to identify and avoid their specific triggers to manage their condition effectively.",0.651971,0.698516,0.674442,0.0,0.236934,0.021053,0.132404
+14,,"Only a few medications can trigger asthma. Check with your doctor or pharmacist before starting any new medicine. And if your asthma symptoms are worse after starting a new medication, you should see your doctor immediately.
+
+The most common medicines that can trigger asthma are:
+
+    aspirin (acetylsalicylic acid) and certain other NSAID (non-steroidal anti-inflammatory) drugs, which are used as pain relievers, and to treat arthritis and inflammatory conditions
+    beta-blockers, which are used to treat high blood pressure, heart conditions, migraine or anxiety
+
+Not all patients with asthma react to aspirin or NSAIDs, so some people with asthma can use these drugs. However, beta-blockers are likely to cause asthma symptoms in all patients with asthma and should always be avoided.","Yes, certain medications can trigger asthma symptoms or exacerbations. These include beta-blockers, which are often used for treating high blood pressure and heart conditions, and non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen. It's important for individuals with asthma to inform their healthcare providers about their condition so that alternative medications can be considered if necessary. Medications such as beta-blockers and NSAIDs can potentially trigger asthma symptoms or worsen asthma control. Patients should communicate their asthma status to their healthcare providers to ensure safe and effective treatment plans.",0.775898,0.77105,0.773467,0.069669,0.46729,0.169811,0.252336
+15,,"Yes, sudden weather changes (e.g. cold winds, humidity and storms) can trigger asthma in some people. Some of these sudden changes can cause the release of allergens, such as pollen, that can make asthma worse in people whose asthma is allergy-related. Cold air can also have a direct irritant effect on inflamed airways.","Yes, weather changes can trigger asthma symptoms. Various weather conditions, such as cold air, high humidity, and changes in barometric pressure, can cause airway constriction and exacerbate asthma symptoms. It is important for individuals with asthma to be aware of these triggers and manage their condition accordingly. Weather changes can indeed trigger asthma symptoms. Cold air, high humidity, and fluctuations in barometric pressure are known to cause airway constriction, leading to increased asthma symptoms. Individuals with asthma should be mindful of these triggers and manage their condition proactively. Weather changes can trigger asthma symptoms. Cold air, high humidity, and changes in barometric pressure can cause airway constriction and exacerbate asthma symptoms. It is important for individuals with asthma to be aware of these triggers and manage their condition accordingly. Yes, weather changes can trigger asthma symptoms. Various weather conditions, such as cold air, high humidity, and changes in barometric pressure, can cause airway constriction and exacerbate asthma symptoms. It is important for individuals with asthma to be aware of these triggers and manage their condition accordingly. Weather changes can indeed trigger asthma symptoms. Cold air, high humidity, and fluctuations in barometric pressure are known to cause airway constriction, leading to increased asthma symptoms. Individuals with asthma should be mindful of these triggers and manage their condition proactively. Yes, weather changes can trigger asthma symptoms. Various weather conditions, such as cold air, high humidity, and changes in barometric pressure, can cause airway constriction and exacerbate asthma symptoms. It is important for individuals with asthma to be aware of these triggers and manage their condition accordingly. Weather changes can trigger asthma symptoms. Cold air, high humidity, and fluctuations in barometric pressure are known to cause airway constriction, leading to increased asthma symptoms. It is important for individuals with asthma to be mindful of these triggers and manage",0.603409,0.647413,0.624637,0.0,0.144444,0.050279,0.138889
+16,,"Yes, viral respiratory infections, such as colds or flu, can trigger asthma symptoms, particularly in children. Try to avoid contact with people if you know they have a respiratory infection.","Yes, infections, particularly respiratory infections like the common cold or influenza, can trigger asthma attacks. Viral infections can cause inflammation and swelling in the airways, leading to increased mucus production and bronchospasm, which can exacerbate asthma symptoms.",0.793239,0.801451,0.797324,0.095588,0.358209,0.123077,0.268657
+17,,"Yes. Once you are sensitised or allergic, both indoor and outdoor allergens can cause asthma symptoms and attacks, as well as other allergic symptoms such as sneezing or a runny nose. It is therefore important to consider whether your asthma is caused or worsened by allergens.
+
+Exposure to even small amounts of airborne allergens can cause asthma symptoms. Repeated exposure may not only provoke symptoms, but may also be a cause of long-term (chronic) inflammation in the airways.
+
+Proper advice about which allergens and environments you should avoid can only be given after talking to your doctor and often after you have been tested for allergies.","Yes, an allergic reaction can trigger asthma. Allergens such as pollen, dust mites, pet dander, and mold can cause an allergic reaction in some people, leading to inflammation and constriction of the airways. This can result in asthma symptoms such as wheezing, coughing, shortness of breath, and chest tightness. Managing allergies through avoidance of known allergens, medications, and immunotherapy can help control asthma symptoms triggered by allergies.",0.726492,0.695355,0.710582,0.0,0.344828,0.069767,0.183908
+18,,"No, asthma is not a psychological condition, it is a long-term (chronic) inflammatory disease that leads to extra-sensitive and easily irritated airways, especially when it is not properly treated.
+
+Although asthma is not a psychological condition, emotional stress can trigger the symptoms. For example, financial problems, not enjoying your work or worrying about your family can all help to trigger symptoms if you already have asthma.","Asthma is not classified as a psychological or psychosomatic disease. It is a chronic inflammatory disease of the airways in the lungs, characterized by episodes of wheezing, breathlessness, chest tightness, and coughing. Asthma is primarily a physiological condition with a strong inflammatory component, often triggered by environmental factors such as allergens, pollution, or respiratory infections. While stress and emotional factors can exacerbate asthma symptoms, they do not cause the disease itself. Asthma is a chronic respiratory condition with inflammatory and physiological components, not a psychosomatic disease.",0.744853,0.745197,0.745025,0.0,0.363636,0.118421,0.272727
+19,,"People with allergic asthma can often easily identify the most common trigger factor(s) for their asthma (e.g. pets or pollen). But many people with untreated or under-treated asthma have an underlying airway inflammation that they are hardly aware of. These people will react easily to many irritants, allergens and infections, and it can be difficult to identify the most important one.
+
+If your asthma is provoked by more than one trigger at the same time, the reaction can be stronger than if you are only exposed to one trigger. For example, an airway infection may cause you to react to stimuli that you normally would not react to. This is why triggers such as physical exercise, strong smells, plants, chemicals, smoke, weather changes, anxiety, stress and some medications can sometimes cause an asthma attack and sometimes cause no symptoms.
+Why does my asthma get worse when I am upset or worried about something?
+
+Not all people with asthma feel worse when they are upset or worried. Those who do may be easily stressed, or may cry or breathe too fast (hyperventilate) easily.
+
+Another reason that your asthma gets worse could be that you are not being treated properly for the inflammation you have in your airways.
+A person with allergic asthma can be exposed to a certain amount of the allergen without reacting. In most cases, the concentration of allergens (except pollen) will be higher indoors than outdoors. You may also be exposed to higher levels of other allergens indoors, making the level of total allergens higher than what you can tolerate.","Identifying asthma triggers can be challenging due to several reasons:
+
+1. **Multiple Triggers**: Asthma can be triggered by a variety of factors, including allergens, respiratory infections, air pollution, stress, and exercise.
+
+2. **Individual Variability**: People with asthma can react differently to the same triggers. What causes an attack in one person may not affect another.
+
+3. **Subtle Symptoms**: Early signs of an asthma attack can be subtle and easily overlooked, making it difficult to identify the trigger.
+
+4. **Environmental Factors**: Changes in the environment, such as weather changes or exposure to new environments, can also trigger asthma attacks.
+
+5. **Coexisting Conditions**: Other health conditions, such as allergies or sinusitis, can complicate the identification of asthma triggers.
+
+To better manage asthma, it is recommended to keep a detailed diary of symptoms and potential triggers, and consult with a healthcare provider for personalized advice.",0.694562,0.685877,0.690193,0.025389,0.373464,0.079012,0.137592
+20,,"Yes, you could if you had asthma symptoms from real Christmas trees in the past (though this is not a common allergy)! This phenomenon is called a conditioned reflex the same thing that causes your mouth to water when you see a picture of delicious food.","While it's not common, some individuals with asthma may experience symptoms from exposure to certain chemicals or allergens present in artificial Christmas trees. These can include formaldehyde, phthalates, or other volatile organic compounds (VOCs) that are used in the manufacturing process. If you have asthma, it's important to ensure the tree is well-ventilated and to consider using a real tree, which typically has fewer chemicals. If symptoms occur, try to minimize exposure and consult with your healthcare provider for personalized advice.",0.667154,0.698961,0.682687,0.0,0.276923,0.0625,0.153846
+21,,"Asthma symptoms typically come and go. You have trouble breathing, your chest feels tight and you can hear wheezing when you breathe or cough. These symptoms often occur during exercise or during the night.
+
+An asthma attack is when your symptoms rapidly become more severe, usually rather suddenly. During an asthma attack, you have more trouble breathing.
+
+You may get used to the asthma symptoms and not realise that your airflow is impaired and could be improved by treatment.
+
+When your asthma is under good control, the airways are clear and air flows easily in and out.","Asthma is a chronic respiratory condition characterized by episodes of wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early in the morning. These symptoms occur due to inflammation and narrowing of the airways, which can be triggered by allergens, exercise, cold air, or respiratory infections. During an asthma attack, the airways become more inflamed and produce excess mucus, making it difficult to breathe. Asthma symptoms can vary in intensity and frequency among individuals. Some people may experience mild symptoms that are easily managed with medication, while others may have more severe attacks that require emergency medical attention. It is important for individuals with asthma to have a personalized asthma action plan and to work closely with their healthcare provider to manage their condition effectively. Asthma is a chronic respiratory condition characterized by episodes of wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early in the morning. These symptoms occur due to inflammation and narrowing of the airways, which can be triggered by allergens, exercise, cold air, or respiratory infections. During an asthma attack, the airways become more inflamed and produce excess mucus, making it difficult to breathe. Asthma symptoms can vary in intensity and frequency among individuals. Some people may experience mild symptoms that are easily managed with medication, while others may have more severe attacks that require emergency medical attention. It is important for individuals with asthma to have a personalized asthma action plan and to work closely with their healthcare provider to manage their condition effectively. Asthma is a chronic respiratory condition characterized by episodes of wheezing, shortness of breath, chest tightness, and coughing, particularly at night or early in the morning. These symptoms occur due to inflammation and narrowing of the airways, which can be triggered by allergens, exercise, cold air, or respiratory infections. During an asthma attack, the airways become more inflamed and produce excess mucus, making it difficult to breathe.",0.640222,0.701472,0.669449,0.03034,0.257143,0.062201,0.161905
+22,,"When asthma is not under control, the airways become inflamed. Inflammation of the airways causes asthma symptoms (wheezing, breathlessness, chest tightness and coughing) by restricting or limiting the airflow to and from the lungs.
+
+    The airways become red and swollen, which makes them narrower. This can often take several hours or days to develop and may take just as long to reverse after the asthma attack has passed.
+    Tightening of the muscles that surround the airways (also called bronchoconstriction) makes them even narrower. This tightening can happen very quickly, depending on the type of trigger and underlying inflammation.
+    The airways make more mucus, which can plug up or partly block the airways.
+
+Attacks can range from mild to severe.","During an asthma attack, the airways in the lungs become inflamed and narrow, making it difficult to breathe. This is often triggered by allergens, exercise, cold air, or respiratory infections. The muscles around the airways tighten, and the lining of the airways swells, producing extra mucus. This can lead to symptoms such as wheezing, coughing, shortness of breath, and chest tightness.",0.78185,0.734193,0.757272,0.0,0.4,0.11236,0.233333
+23,,"Some causes and triggers are common to all people with asthma, and some are more individual, especially allergens. There are very big differences between people in how readily and how severely they react to different triggers. The severity of the symptoms can differ in the same person at different times, and the effects of treatment can also vary.
+
+Your asthma does not stay the same, but changes over time, and every person with asthma has good days and bad days (or longer periods). However, if asthma is properly treated, there can also be long periods without symptoms or attacks.
+
+A number of different triggers can cause asthma symptoms or start an asthma attack:
+
+    infections, usually those caused by a virus (e.g. colds or flu)
+    allergens, most commonly from house dust mites, pets or pollen
+    exercise, especially in cold weather
+    emotions, such as excitement, fear or anger
+    irritants, such as air pollution
+    smoking people with asthma and the parents of asthmatic children should avoid smoking
+    changes in the weather (e.g. a cold spell)
+    food additives, such as tartrazine (an artificial food colouring), or food allergens, such as peanuts (sensitized or allergic individuals can have a very severe allergic reaction).
+    certain medications some people may be allergic to some drugs (e.g. aspirin).","An asthma attack is triggered by various factors that cause the airways to become inflamed and narrow, leading to difficulty in breathing. Common triggers include:
+
+1. **Allergens**: Pollen, dust mites, mold spores, pet dander, and cockroach debris can provoke asthma attacks.
+2. **Respiratory Infections**: Viral infections like the common cold or flu can exacerbate asthma symptoms.
+3. **Exercise**: Physical activity can induce exercise-induced bronchoconstriction, especially in cold or dry air.
+4. **Air Pollution**: Exposure to pollutants such as smoke, ozone, and nitrogen dioxide can trigger asthma attacks.
+5. **Stress and Emotions**: Stress, anxiety, and strong emotions can lead to hyperventilation and tighten airways.
+6. **Weather Changes**: Cold air, humidity, or sudden temperature changes can trigger asthma symptoms.
+7. **Medications**: Certain medications, like beta-blockers, can worsen asthma symptoms.
+8. **Irritants**: Smoke, strong odors, and chemical fumes can irritate the airways.
+
+Understanding and avoiding these triggers can help manage asthma and prevent attacks.",0.665592,0.686573,0.67592,0.031083,0.344262,0.065934,0.147541
+24,,"Symptoms that are rapidly becoming more severe and do not get better even after you take your airway opener (bronchodilator) medication
+    Symptoms that do not improve at all, or rapidly return after you have taken your airway opener medication
+    Difficulty talking because you are short of breath
+    A peak flow reading below 50% of your normal value, which is not improved by the airway opener medication
+    A peak flow reading that according to your Asthma Management Plan puts you at risk of an asthma attack","Signs of a severe and dangerous asthma attack include:
+
+1. Difficulty speaking due to shortness of breath.
+2. Rapid breathing (tachypnea).
+3. Intense wheezing or whistling sounds when breathing.
+4. Bluish coloration of the lips or fingernails (cyanosis), indicating low oxygen levels.
+5. Inability to complete sentences due to breathlessness.
+6. Severe chest tightness or pain.
+7. Use of accessory muscles to breathe, such as the neck and shoulders.
+8. Feeling of impending doom or extreme anxiety.
+
+If any of these signs are present, it is crucial to seek emergency medical help immediately.",0.644673,0.648524,0.646593,0.0,0.168539,0.034091,0.101124
+25,,"Unfortunately, deaths still occur in acute, severe asthma. But this is unusual and can be prevented.
+
+Most asthma deaths occur in people who have not received enough treatment, perhaps because they did not realize or did not want to admit how serious their asthma was, or because they had not received adequate guidance from their doctors and nurses.
+
+The correct use of controlling and preventive medication is the key to preventing these tragedies. People with asthma sometimes forget or choose not to take their anti-inflammatory medication, especially during periods when they are feeling well. When they start to get symptoms of asthma, they increase the dose of airway opener (bronchodilator). However, this will not treat the underlying inflammation, which may lead to severe life-threatening attacks. If you have stopped taking your anti-inflammatory medication, you should re-start it at the first sign of symptoms of asthma, in addition to using an airway opener.
+
+If you are using regular inhaled corticosteroid treatment, you should not stop using this at any time unless you have discussed this with your doctor first.","Yes, it is possible for a person to die from asthma, particularly if it is not well-managed or if there is a severe asthma attack that leads to respiratory failure. Asthma is a chronic condition that affects the airways, and while it can be controlled with medication and lifestyle adjustments, severe exacerbations can be life-threatening. Asthma is a chronic respiratory condition that can lead to life-threatening situations if not properly managed. Severe asthma attacks can cause respiratory failure, which can be fatal. Asthma, if left uncontrolled, can result in fatal outcomes. Severe exacerbations can lead to respiratory failure, which is potentially life-threatening. Asthma can be fatal if severe attacks are not managed effectively. It is a chronic condition that can lead to respiratory failure in extreme cases. Yes, asthma can be fatal if severe attacks are not managed. It is a chronic condition that can lead to life-threatening respiratory failure. Asthma is a chronic condition that can be fatal if severe attacks are not managed. It can lead to respiratory failure and other complications. Asthma can be fatal if not managed properly. Severe attacks can lead to respiratory failure and other life-threatening complications. Asthma can be fatal if severe attacks are not managed. It is a chronic condition that can lead to respiratory failure and other serious complications. Yes, asthma can be fatal if severe attacks are not managed. It is a chronic condition that can lead to life-threatening respiratory failure. Asthma can be fatal if severe attacks are not managed. It is a chronic condition that can lead to respiratory failure and other serious complications. Asthma can be fatal if not managed properly. Severe attacks can lead to respiratory failure and other life-threatening complications. Asthma can be fatal if severe attacks are not managed. It is a chronic condition that can lead to life-threatening respiratory failure. Yes, asth",0.668125,0.665727,0.666924,0.0,0.188,0.016064,0.128
+26,,"You lose your breath during an asthma attack because the airways become narrow, which restricts or limits the airflow to and from the lungs. The airways become restricted because:
+
+    The lining of the airways becomes inflamed
+    The production of mucus (phlegm) increases and may block the airways
+    The muscles in the walls of the airways tighten
+
+During an asthma attack, all of these things happen in different degrees.
+
+You can also lose your breath for other reasons than asthma, for example during physical exercise, especially if you are not in good shape. If you lose your breath without typical asthma symptoms, and if your asthma medication has no effect, you should see your doctor.","Loss of breath in asthma is primarily due to the narrowing of the airways, which can be triggered by various factors such as allergens, exercise, cold air, or respiratory infections. This narrowing leads to increased resistance to airflow, making it difficult to breathe.
+
+In asthma, the airways become inflamed and swollen, and the muscles around the airways tighten, a process known as bronchoconstriction. Additionally, mucus production may increase, further obstructing the airways.
+
+When you experience an asthma attack, you may notice symptoms such as wheezing, coughing, chest tightness, and shortness of breath. These symptoms occur because the airflow is restricted, and the lungs cannot fully expand and contract.
+
+To manage asthma and prevent breathlessness, it is crucial to follow a treatment plan prescribed by a healthcare provider. This may include the use of inhaled corticosteroids to reduce inflammation, bronchodilators to relax the muscles around the airways, and avoiding known triggers.
+
+If you experience severe or frequent asthma attacks, it is essential to seek medical attention promptly.",0.719309,0.763209,0.740609,0.047853,0.4,0.107914,0.192857
+27,,"During an asthma attack, you will find it harder to breathe because your airways have become narrower. Your chest feels tight, and you can hear wheezing when you breathe or cough. You may feel as if you are trying to breathe through a straw in your mouth while holding your nose.
+
+If the PEF value drops to half of the usual level, its time to seek emergency help.","An asthma attack is characterized by several symptoms, including:
+
+1. Shortness of breath or wheezing: You may find it difficult to breathe or hear a whistling sound when you exhale.
+2. Chest tightness or pain: You may feel a tightness or pressure in your chest.
+3. Coughing: You may experience persistent coughing, especially at night or early in the morning.
+4. Increased mucus production: You may notice more mucus than usual, which can be clear, white, yellow, or green.
+5. Rapid breathing: You may breathe faster than usual.
+
+If you experience these symptoms, it is important to use your prescribed inhaler or seek medical attention immediately. An asthma attack is characterized by several symptoms, including:
+
+1. Shortness of breath or wheezing: You may find it difficult to breathe or hear a whistling sound when you exhale.
+2. Chest tightness or pain: You may feel a tightness or pressure in your chest.
+3. Coughing: You may experience persistent coughing, especially at night or early in the morning.
+4. Increased mucus production: You may notice more mucus than usual, which can be clear, white, yellow, or green.
+5. Rapid breathing: You may breathe faster than usual.
+
+If you experience these symptoms, it is important to use your prescribed inhaler or seek medical attention immediately.",0.598453,0.653527,0.624779,0.0,0.271429,0.086331,0.185714
+28,,"If you take peak flow readings regularly or know the reading you get when your asthma is well controlled then, as a general rule, if the reading falls to less than two-thirds of the usual level, it is time to be cautious and to increase the amount of medication. A reading that is less than half the usual level often indicates the need for immediate help, but this varies from person to person.
+
+It is best if you and your doctor together set a personal peak flow reading that indicates when it is time for you to increase the dose of medication or seek acute help. This should be combined with a written treatment plan for your medications.
+
+It is important to realize that your treatment should not be entirely determined by your peak flow readings. Whenever the usual treatment does not have the effect you wish on the control of your asthma you should discuss this with your doctor, regardless of the peak flow reading.
+Can asthma medication help prevent asthma symptoms?
+
+Yes. Asthma medications include very effective airway openers. Even more importantly, they include very effective controllers (inhaled steroids), which can prevent most asthma attacks when used regularly.","A peak flow meter is a handheld device used to measure how well air moves out of your lungs. It helps in monitoring asthma control by measuring the peak expiratory flow rate (PEFR). If your readings are consistently lower than your personal best or if they drop suddenly, it may indicate that your asthma is not well-controlled, and you should consult your doctor. However, it's important to note that a peak flow meter is a tool for monitoring and should be used in conjunction with your asthma action plan and other medical advice.",0.728719,0.690475,0.709082,0.0,0.378378,0.095238,0.175676
+29,,"No, there is not yet a total cure for asthma.
+
+The causes of asthma are not fully understood. Sometimes children with asthma can grow out of their symptoms, or many years of regular treatment with anti-inflammatory asthma medication may make the disease disappear. However, asthma may recur again later in life in both these groups of patients.
+
+Asthma does not stay the same, but changes over time, and every person with asthma has good days and bad days. It is tempting to think that your asthma has been cured if you have not had symptoms for a long time, but you will usually still have a tendency to asthma if you are exposed to the appropriate triggers in the future.
+
+Allergy treatment using hyposensitisation (often called allergy vaccination) can very occasionally achieve a near-cure of asthma in someone with specific reactions to known allergens, but is unhelpful for most people.","Asthma is a chronic condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, and coughing. Currently, there is no cure for asthma, but it can be effectively managed with medications and lifestyle adjustments. Treatment aims to control symptoms and prevent asthma attacks. Asthma is a chronic condition that cannot be cured, but it can be managed effectively with the right treatment plan.",0.722481,0.687899,0.704766,0.0,0.304933,0.027149,0.134529
+30,,"Whether you can outgrow your asthma depends on how old you were when it started and how severe it was at the time. Around half the children with mild asthma will have no symptoms by the time they reach their mid-teens. Asthma does, however, often recur in adulthood. Children with more severe asthma are less likely to be free of symptoms when they get older.
+
+Asthma that develops in adulthood can be associated with long-term exposure to specific triggers, such as chemicals or pollution, and can sometimes be greatly improved if the triggers are avoided.
+
+Most asthma can be well controlled with appropriate medication, but as an adult you are unlikely to outgrow it completely.","Asthma is a chronic condition, and while some children may outgrow it, many adults continue to experience symptoms. The likelihood of outgrowing asthma varies and depends on factors such as the type of asthma, its severity, and how well it is managed. It is important to work with a healthcare provider to monitor and manage asthma symptoms effectively.",0.734052,0.69899,0.716092,0.0,0.297143,0.046243,0.16
+31,,"Asthma is a long-term (chronic) disease, and the tendency to develop asthma symptoms is probably life-long. In some children, symptoms only appear intermittently. Also, some children with mild asthma will have no symptoms by the time they reach their mid-teens.","Asthma is a chronic condition that can be managed but not cured. While some individuals may experience remission or improvement over time, others may have persistent symptoms throughout their lives. The course of asthma varies from person to person, and it is influenced by factors such as triggers, environmental exposures, and genetic predisposition. Asthma is a chronic condition that requires ongoing management. While it is not curable, many individuals can achieve good control of their symptoms with appropriate treatment and lifestyle adjustments. The severity and frequency of asthma attacks can vary over time, and some people may experience periods of remission. Asthma is a chronic condition that requires ongoing management. While it is not curable, many individuals can achieve good control of their symptoms with appropriate treatment and lifestyle adjustments. The severity and frequency of asthma attacks can vary over time, and some people may experience periods of remission. Asthma is a chronic condition that requires ongoing management. While it is not curable, many individuals can achieve good control of their symptoms with appropriate treatment and lifestyle adjustments. The severity and frequency of asthma attacks can vary over time, and some people may experience periods of remission. Asthma is a chronic condition that requires ongoing management. While it is not curable, many individuals can achieve good control of their symptoms with appropriate treatment and lifestyle adjustments. The severity and frequency of asthma attacks can vary over time, and some people may experience periods of remission. Asthma is a chronic condition that requires ongoing management. While it is not curable, many individuals can achieve good control of their symptoms with appropriate treatment and lifestyle adjustments. The severity and frequency of asthma attacks can vary over time, and some people may experience periods of remission. Asthma is a chronic condition that requires ongoing management. While it is not curable, many individuals can achieve good control of their symptoms with appropriate treatment and lifestyle adjustments. The severity and frequency of asthma attacks can vary over time, and some people may experience periods of remission. Asthma is a chronic condition that requires ongoing management. While it is",0.584113,0.66867,0.623538,0.0,0.106061,0.010152,0.090909
+32,,"Firstly, try to discover what triggers your asthma. Common triggers include tobacco smoke, cold air and exercise.
+
+    You should be strict about no smoking inside your home and other places where you spend time. Exposure to tobacco smoke makes asthma worse in most people.
+    Cold air triggers symptoms more easily when you are not getting enough treatment for your asthma, and increasing your dose of anti-inflammatory medication will often help.
+    Exercise is important and should normally not be discouraged, because asthma symptoms during or following exercise can usually be prevented by good medication.
+    Pressure on the chest can be caused by situations like sleeping on your back as this builds the pressure, making you uncomfortable and asthmatic. You can prevent this by simply getting a memory foam mattress.
+
+Some allergens can be avoided. For example, if you are allergic to horses or cats you should keep away from them. Other allergens and environmental triggers, such as house dust mite, pollen and air pollution, are more difficult to avoid completely.
+
+Remember there is a difference between triggers that cause inflammation (inducers) and those that only cause temporary symptoms. Full advice about which allergens and environments you should avoid can only be given after talking to your doctor and often after you have been tested for allergies.","To avoid common asthma triggers, you should:
+
+1. Identify your specific triggers through a detailed asthma action plan or consultation with a healthcare provider.
+2. Avoid exposure to allergens such as pollen, dust mites, pet dander, and mold by keeping your living environment clean and using air purifiers.
+3. Minimize exposure to irritants like tobacco smoke, strong odors, and pollution by avoiding smoking areas and using air filters.
+4. Manage stress and anxiety, as they can exacerbate asthma symptoms, through relaxation techniques and regular exercise.
+5. Follow your asthma action plan, which may include pre-medication before exposure to known triggers.
+6. Ensure your home is well-ventilated and maintain a stable indoor temperature to prevent triggering symptoms.
+7. Wear a mask if necessary when exposed to dust or chemicals at work or during outdoor activities.
+
+By taking these steps, you can reduce the frequency and severity of asthma attacks.",0.700015,0.694162,0.697076,0.0,0.36612,0.049451,0.147541
+33,,"It is important that your home is easy to ventilate and keep clean, particularly the floors. Wood, tile or linoleum flooring is better than fitted textile carpeting, which tends to collect a lot of dust, dust mites and allergens.
+
+In general, do not keep furry animals or birds, even if you are not specifically allergic to them, as they will lead to an increase in the amount of house dust.
+
+Try to avoid strong perfumes, aftershave, deodorants and fragrant flowers inside the house, as these are all possible triggers of asthma.
+
+Do not allow anyone to smoke indoors (and avoid other smoky environments such as bars).","To improve your home environment and potentially reduce asthma symptoms, consider the following steps:
+
+1. **Reduce Allergens**: Regularly clean and vacuum your home to remove dust mites, pet dander, and other allergens. Use allergen-proof covers on mattresses and pillows.
+
+2. **Control Humidity**: Maintain indoor humidity levels between 30% and 50% to prevent mold growth and dust mites. Use dehumidifiers or air conditioners as needed.
+
+3. **Avoid Smoke and Pollutants**: Do not smoke indoors and limit exposure to outdoor pollutants by keeping windows closed on high-pollution days.
+
+4. **Use Air Purifiers**: Consider using HEPA filters in air purifiers to remove fine particles from the air.
+
+5. **Maintain Cleanliness**: Regularly wash bedding in hot water and keep pets out of bedrooms to minimize allergens.
+
+6. **Control Pests**: Eliminate pests like cockroaches and rodents that can trigger asthma symptoms.
+
+7. **Use Non-toxic Cleaning Products**: Choose cleaning products that are free from harsh chemicals and fragrances to reduce irritants.
+
+8. **Improve Ventilation**: Ensure good air circulation by opening windows when outdoor air quality is good and using exhaust fans in bathrooms and kitchens.
+
+9. **Avoid Strong Odors**: Use fragrance-free products and avoid strong scents that can trigger asthma symptoms.
+
+10. **Regular Maintenance**: Keep your HVAC system clean and well-maintained to ensure it is not circulating allergens.
+
+By implementing these strategies, you can create a healthier home environment that may help in managing asthma symptoms.",0.62223,0.695031,0.656619,0.0,0.258065,0.053097,0.123167
+34,,"If you have allergic asthma, it is especially important to avoid or at least reduce your exposure to the relevant allergens. If you are allergic to pets, such as cats and dogs, you should not keep them indoors. You should also reduce your contact with other peoples pets, especially indoors.
+
+Use a vacuum cleaner with a HEPA (high efficiency particulate air) filter and double bags. You may also feel better if you avoid having dust-collecting textiles and furniture.","If you are allergic to pets or furry animals and have asthma, it is important to manage your exposure to allergens to prevent asthma attacks. Here are some strategies you can consider:
+
+1. **Keep pets out of your bedroom:** Ensure that pets do not sleep in your bedroom, as this can reduce your exposure to allergens.
+
+2. **Regular grooming:** Regularly groom your pets to minimize the amount of dander they shed.
+
+3. **Use air purifiers:** Install air purifiers with HEPA filters in your home to help remove pet dander from the air.
+
+4. **Vacuum frequently:** Vacuum your home regularly using a vacuum cleaner with a HEPA filter to reduce pet dander.
+
+5. **Consider allergy medications:** Consult with your healthcare provider about allergy medications or immunotherapy (allergy shots) to help manage your allergies.
+
+6. **Limit contact:** If possible, limit your contact with pets, especially in areas where you spend a lot of time.
+
+7. **Consult an allergist:** Consider seeing an allergist for further evaluation and management of your allergies.
+
+By implementing these strategies, you can help reduce your exposure to pet allergens and manage your asthma symptoms more effectively.",0.662656,0.75101,0.704072,0.079508,0.329588,0.150943,0.217228
+35,,It is not scientifically proven that a central vacuum cleaner is more effective than a modern vacuum cleaner with a HEPA (high efficiency particulate air) filter and double bags.,"While a central vacuum cleaner can be beneficial for reducing allergens in your home, it is not a direct treatment for asthma. If you have asthma, it is important to focus on managing your symptoms and triggers. Here are some steps you can take:
+
+1. **Identify Triggers**: Common asthma triggers include dust mites, pet dander, pollen, smoke, and mold. Identifying and minimizing exposure to these can help manage asthma symptoms.
+
+2. **Maintain Cleanliness**: Regularly clean your home to reduce dust and allergens. A central vacuum cleaner can be helpful in this regard, as it can clean your entire home more efficiently than a traditional vacuum.
+
+3. **Use Air Purifiers**: Consider using air purifiers with HEPA filters to help remove airborne allergens from your home.
+
+4. **Consult with a Healthcare Provider**: Discuss your asthma management plan with your healthcare provider to ensure you are using the most effective strategies for your condition.
+
+5. **Medication and Inhalers**: Ensure you have access to your prescribed asthma medications and inhalers. Use them as directed by your healthcare provider.
+
+6. **Asthma Action Plan**: Develop an asthma action plan with your healthcare provider to know what to do in case of an asthma attack.
+
+Remember, while a central vacuum cleaner can help reduce allergens, it should be part of a broader asthma management strategy.",0.556804,0.714964,0.626049,0.014712,0.153846,0.065306,0.11336
+36,,"House dust mites and their allergens are difficult to avoid. Try to keep your house, and especially the living area and the bedrooms, dry and well ventilated. Avoid textile floor coverings.
+
+If possible, let someone else do the cleaning. Mop the floors instead of vacuuming them.
+
+It can be a good idea to encase pillows, quilts and mattresses in airtight covers that do not allow dust mites or their allergens to pass through. Alternatively, wash your pillow, blanket and bedding regularly at 60C. Previously, it was recommended that you put your pillow in the freezer regularly to reduce the number of dust mites, but this is unnecessary if you get a cover for your pillow and mattress that does not let the dust mites through. Ask your doctor for advice.
+
+Use a vacuum cleaner with a HEPA (high efficiency particulate air) filter and double bags. You may also feel better if you avoid having dust-collecting textiles and furniture.","If you are allergic to dust mites, which can exacerbate asthma symptoms, consider the following steps:
+
+1. **Use Hypoallergenic Bedding**: Wash your sheets, pillowcases, and blankets in hot water weekly to kill dust mites.
+
+2. **Maintain Low Humidity**: Keep indoor humidity below 50% to inhibit dust mite growth.
+
+3. **Use Dust Mite-Proof Covers**: Encase your mattress, pillows, and duvets in allergen-proof covers.
+
+4. **Regular Cleaning**: Vacuum your home regularly using a vacuum with a HEPA filter to reduce dust mite allergens.
+
+5. **Avoid Dust Collecting Areas**: Keep your living space clean and free of clutter where dust can accumulate.
+
+6. **Consult an Allergist**: Discuss with a healthcare provider about allergy testing and possible treatments like allergy shots (immunotherapy).
+
+7. **Medication Management**: Ensure you have an asthma action plan and use prescribed medications as directed to manage symptoms.
+
+By implementing these strategies, you can reduce exposure to dust mites and help control your asthma symptoms.",0.657832,0.704047,0.680155,0.0,0.361905,0.076677,0.165079
+37,,"It is not clear whether using an air purifier in the home is effective. If you have no other way of reducing your exposure to allergens or irritants, it may be worth trying. However, you must use it correctly, which includes keeping doors and windows closed in the room where you are using it.","An air purifier can help reduce asthma symptoms by removing allergens and irritants from the air, such as dust mites, pet dander, pollen, and smoke. However, it is not a cure for asthma. It is important to continue using your prescribed asthma medications and follow your asthma action plan. Consult with your healthcare provider for personalized advice. An air purifier can help reduce asthma symptoms by removing allergens and irritants from the air, such as dust mites, pet dander, pollen, and smoke. However, it is not a cure for asthma. It is important to continue using your prescribed asthma medications and follow your asthma action plan. Consult with your healthcare provider for personalized advice. An air purifier can help reduce asthma symptoms by removing allergens and irritants from the air, such as dust mites, pet dander, pollen, and smoke. However, it is not a cure for asthma. It is important to continue using your prescribed asthma medications and follow your asthma action plan. Consult with your healthcare provider for personalized advice. An air purifier can help reduce asthma symptoms by removing allergens and irritants from the air, such as dust mites, pet dander, pollen, and smoke. However, it is not a cure for asthma. It is important to continue using your prescribed asthma medications and follow your asthma action plan. Consult with your healthcare provider for personalized advice. An air purifier can help reduce asthma symptoms by removing allergens and irritants from the air, such as dust mites, pet dander, pollen, and smoke. However, it is not a cure for asthma. It is important to continue using your prescribed asthma medications and follow your asthma action plan. Consult with your healthcare provider for personalized advice. An air purifier can help reduce asthma symptoms by removing allergens and irritants from the air, such as dust mites, pet dander, pollen, and smoke. However, it is",0.551797,0.61277,0.580687,0.0,0.108992,0.021918,0.103542
+38,,"Acupuncture releases the bodys own cortisone, among other things, and this can help in some cases.
+
+One or two studies have shown a short temporary effect of acupuncture on asthma, but there are no long-term studies showing any lasting effects.","Acupuncture is a traditional Chinese medicine practice that involves inserting thin needles into specific points on the body. Some studies suggest that acupuncture may help reduce asthma symptoms and improve lung function by promoting relaxation and reducing stress, which can trigger asthma attacks. However, more research is needed to conclusively determine its effectiveness. It is advisable to consult with a healthcare provider before starting acupuncture to ensure it is a safe and suitable option for your asthma management.",0.714135,0.736965,0.725371,0.0,0.184874,0.0,0.117647
+39,,"Controllers are medicines that prevent asthma attacks from starting. There are two types of controller medicines anti-inflammatory medicines and airway openers.
+
+Anti-inflammatory medicines work by reducing the inflammation in the airways that occurs in asthma. The most effective and most commonly used anti-inflammatory medicines are inhaled glucocorticosteroids, such as budesonide, beclomethasone and fluticasone. These medicines help to prevent periods of greater severity of asthma if you take them regularly as instructed by your doctor (usually once or twice every day), and they may relieve you of your symptoms completely for most of the time. If your doctor gives you an inhaled glucocorticosteroid you must take it regularly, even if you are not wheezing.
+
+If the inflammation is not controlled, the airways become red, swollen, narrower and extra-sensitive. Some degree of inflammation is usually present in your lungs, even when you are unaware of symptoms, and worsening of the inflammation may lead you to feel an attack coming on.
+
+Airway openers, which are also known as bronchodilators, are medicines that help to prevent attacks progressing by quickly opening up the narrowed airways. They do this by relaxing the muscles surrounding the airways. Most airway openers only have a short-term effect and should not be used regularly as controllers. Long-acting airway openers, including formoterol and salmeterol, are effective as controllers when they are used regularly with an inhaled glucocorticosteroid. However, they should not be used regularly on their own as they do not treat the underlying inflammation and their effect on the symptoms of asthma could even hide the fact that it is getting worse.","Controllers, also known as maintenance or long-term control medications, are used in asthma management to prevent symptoms and reduce the frequency and severity of asthma attacks. They are typically taken daily, regardless of symptoms, to maintain control over the condition.
+
+There are several types of controller medications used in asthma treatment:
+
+1. Inhaled Corticosteroids: These are the most commonly used controller medications. They reduce inflammation in the airways, making them less sensitive to triggers. Examples include fluticasone, budesonide, and beclomethasone.
+
+2. Leukotriene Modifiers: These medications block the action of leukotrienes, chemicals in the body that cause inflammation and constriction of the airways. Examples include montelukast and zafirlukast.
+
+3. Long-acting Beta Agonists (LABAs): These are used in combination with inhaled corticosteroids to help relax the muscles around the airways. Examples include salmeterol and formoterol.
+
+4. Mast Cell Stabilizers: These medications prevent the release of histamine and other chemicals that can cause inflammation and bronchoconstriction. Examples include cromolyn sodium.
+
+5. Combination Inhalers: These contain both a corticosteroid and a LABA, such as fluticasone/salmeterol.
+
+It's important to note that while controllers help manage asthma, they do not provide immediate relief during an asthma attack. For acute symptoms, quick-relief medications, such as short-acting beta agonists (SABAs), like albuterol, are used.",0.707255,0.707068,0.707162,0.051362,0.428274,0.121086,0.170478
+40,,"Relievers or airway openers are medicines that provide rapid relief from an asthma attack by quickly opening up the narrowed airways (dilating the bronchi). They do this by relaxing the muscles surrounding the airways, and are known to doctors and other asthma professionals as bronchodilators.
+
+There are two types of airway openers short-acting bronchodilators and long-acting bronchodilators. The most widely used short- and quick-acting airway openers are salbutamol (also known as albuterol) and terbutaline. Salmeterol is a long-acting airway opener that has a slower action, so it is used for longer-term control, but not for the quick relief of symptoms. Formoterol is a long-acting airway opener that is also quick-acting, so it can be used both for the immediate relief of symptoms and for longer-term control.","Relievers, also known as bronchodilators, are medications used to quickly relax the muscles surrounding the airways in the lungs. They are commonly used to treat asthma symptoms such as wheezing, coughing, and shortness of breath. Relievers work by opening up the airways, making it easier to breathe.
+
+There are two main types of bronchodilators:
+
+1. Short-acting beta agonists (SABAs): These are the most commonly used relievers for asthma. Examples include albuterol, levalbuterol, and pirbuterol. They provide quick relief by relaxing the muscles around the airways, allowing for easier breathing. SABAs are typically used for immediate relief during an asthma attack or for preventing symptoms before exercise or exposure to allergens.
+
+2. Long-acting beta agonists (LABAs): These are used in combination with inhaled corticosteroids to control asthma symptoms over a longer period. Examples include salmeterol and formoterol. LABAs are not used for immediate relief but are prescribed for long-term control of asthma symptoms.
+
+Relievers are typically administered through inhalers or nebulizers, and it is crucial for patients to follow their healthcare provider's instructions on how to use them effectively.",0.742504,0.777859,0.759771,0.084589,0.5,0.152866,0.246835
+41,,"Combination medications contain a reliever and a controller in the same inhaler. So this type of inhaler opens up the airways (preventing the feeling of chest tightening and the worsening of an attack) and also reduces the underlying inflammation that causes asthma. As a result, combination inhalers provide better control of asthma symptoms and reduce the number of inhalers you have to use.
+
+With conventional combination inhalers, you take the same amount of medication all the time. But because every person with asthma has good days and bad days, this means that sometimes you will take a bit more of the medication than you really need, and at other times you will not be getting enough and you may have to use doses from a second inhaler containing an airway opener (bronchodilator).
+
+Recently, a combination inhaler has become available that lets you safely adjust the dosage of your combined medication to match the changes in your asthma. This makes it possible for you to take the right level of medication at the right time and means that you use less medication overall.","Combination medications for asthma are drugs that combine two or more active ingredients to treat asthma symptoms more effectively. These combinations are designed to address multiple pathways of asthma pathophysiology, such as bronchodilation and anti-inflammatory effects.
+
+The most common combination medications include:
+
+1. **Inhaled Corticosteroids and Long-Acting Beta Agonists (LABAs)**: These are often used for moderate to severe asthma. The corticosteroid reduces inflammation in the airways, while the LABA helps to relax the muscles around the airways, making it easier to breathe. Examples include fluticasone/salmeterol and budesonide/formoterol.
+
+2. **Inhaled Corticosteroids and Leukotriene Receptor Antagonists (LTRAs)**: These combinations target both inflammation and bronchoconstriction. An example is montelukast/fluticasone.
+
+3. **Inhaled Corticosteroids and Mast Cell Stabilizers**: These are less common but can be used in certain cases. An example is cromolyn sodium/fluticasone.
+
+Combination medications are typically used for patients who have persistent asthma that is not well controlled with a single inhaled corticosteroid alone. They are often prescribed to improve asthma control and reduce the frequency of asthma attacks.",0.658045,0.696867,0.6769,0.0,0.288136,0.039773,0.124294
+42,,"Asthma is caused by inflammation of the airways, which makes them become red, swollen, narrower and extra-sensitive to irritants. Anti-inflammatory medicines (controllers) relieve this inflammation, so that the swelling goes down and further swelling is prevented, the narrowing due to muscle tightening is reduced, and the airways become less sensitive to asthma triggers.
+
+Anti-inflammatory medications are very effective and can control asthma in most people. The most effective anti-inflammatory medicines are the inhaled glucocorticosteroids, such as budesonide, beclomethasone and fluticasone.","Anti-inflammatory medications, particularly corticosteroids, are used in the management of asthma to reduce inflammation in the airways. This helps to decrease the frequency and severity of asthma attacks. By reducing inflammation, these medications improve airflow and reduce symptoms such as wheezing, coughing, and shortness of breath. They are often used as a long-term control medication to prevent asthma exacerbations rather than for immediate relief during an asthma attack.",0.736561,0.707379,0.721675,0.0,0.350649,0.052632,0.168831
+43,,Airway openers work by opening up the narrowed airways. They do this by relaxing the muscles surrounding the airways. This makes it easier to get air in and out of the lungs. Most airway openers work quickly and can be used to treat an asthma attack. They are sometimes called relievers or rescue bronchodilators.,"Airway opener medications, also known as bronchodilators, are used to relieve symptoms of asthma by relaxing the muscles around the airways. This action helps to open up the airways, making it easier to breathe. The most common types of bronchodilators include short-acting beta agonists (SABAs) like albuterol, which provide quick relief during an asthma attack, and long-acting beta agonists (LABAs) like salmeterol, which are used for long-term control.
+
+The effects of these medications include:
+
+1. **Relief of Symptoms**: They provide rapid relief from symptoms such as wheezing, coughing, and shortness of breath.
+2. **Improved Airflow**: By relaxing the airway muscles, they increase airflow to the lungs, making breathing easier.
+3. **Prevention of Asthma Attacks**: When used regularly, LABAs can help prevent asthma attacks by keeping the airways open.
+4. **Reduced Need for Other Medications**: Effective use of bronchodilators can reduce the need for other asthma medications, such as corticosteroids.
+
+It is important to use these medications as prescribed by a healthcare provider, as overuse or misuse can lead to side effects or decreased effectiveness.",0.65719,0.794626,0.719403,0.038907,0.285714,0.104803,0.155844
+44,,"Glucocorticosteroids, which are also known as corticosteroids, are anti-inflammatory medicines. They are used to relieve and prevent inflammation of the airways, which is the cause of asthma. In asthma, glucocorticosteroids are usually inhaled and referred to as inhaled corticosteroids or inhaled steroids. The most effective and commonly used are budesonide, beclomethasone and fluticasone.","Glucocorticosteroids are a class of corticosteroids, which are steroid hormones that are produced in the adrenal cortex of vertebrates. They are involved in a wide range of physiological processes, including stress response, immune response, and regulation of inflammation. In the context of asthma, glucocorticosteroids are used as anti-inflammatory medications to reduce swelling and mucus production in the airways, thereby improving breathing and preventing asthma attacks. They can be administered in various forms, such as inhalers, tablets, or creams, depending on the severity and type of asthma.",0.766924,0.794825,0.780625,0.076315,0.439716,0.115108,0.255319
+45,,"In asthma, glucocorticosteroids are usually inhaled so that the medicine goes straight to the lining of the airways affected by inflammation. This also greatly reduces the risk of any possible harmful effects on the rest of the body. The small amount of medicine that goes into the bloodstream is rapidly removed from the body, so that normally there are none of the side effects that may occur with other types of steroid treatment.This is exemplified by pregnancy. Long-term treatment with glucocorticosteroid tablets puts both mother and unborn baby at significant risk of various complications. However, the inhaled steroid budesonide has been investigated in large studies of pregnant women, which did not show any increased risk for the mother or unborn baby.","Glucocorticosteroids are inhaled for asthma management because they directly target the airways, reducing inflammation and preventing asthma symptoms. When inhaled, these medications deliver a high concentration of the drug to the lungs, minimizing systemic side effects compared to oral administration. This localized delivery ensures that the medication acts directly where it is needed, providing effective control of airway inflammation and hyperresponsiveness.",0.75779,0.724871,0.740965,0.0,0.228261,0.065934,0.152174
+46,,"Corticosteroid tablets (usually prednisolone or prednisone) or injections can be helpful to treat a severe attack of asthma when inhaled corticosteroids have not had enough effect or are not available.
+
+Treatment with corticosteroid tablets or injections for short periods has few side effects. High doses can, however, temporarily affect your mood, either positively or negatively. Long-term treatment with corticosteroid tablets or injections can cause side effects, including osteoporosis, thinning of the skin, weight gain, high blood pressure and high blood-sugar levels. These risks are avoided if you switch back to inhaled corticosteroids as soon as possible (in consultation with your doctor) and avoid the long-term use of corticosteroid tablets or injections.","Corticosteroid tablets or injections are used in the management of asthma to reduce inflammation in the airways, which helps to prevent asthma attacks and improve breathing. They are typically prescribed for long-term control of asthma symptoms and are often used in conjunction with other medications like bronchodilators. Corticosteroids can be administered orally or through inhalation, depending on the severity and type of asthma.
+
+Oral corticosteroids are used for moderate to severe asthma that is not well controlled by inhaled medications alone. They help to reduce airway inflammation and prevent exacerbations. Inhaled corticosteroids are used for long-term control of asthma symptoms and are considered the most effective and least invasive method of delivering corticosteroids.
+
+Injections of corticosteroids may be used in severe cases of asthma or during an acute asthma attack when rapid control of symptoms is necessary. These injections can provide quick relief by reducing airway inflammation and improving breathing.
+
+It is important to note that corticosteroids should be used as prescribed by a healthcare professional, as they can have side effects if used improperly. Regular monitoring and follow-up with a healthcare provider are essential to ensure optimal asthma management. Corticosteroid tablets or injections are used in asthma management to reduce airway inflammation and prevent exacerbations. Oral corticosteroids are prescribed for moderate to severe asthma not controlled by inhalers, while inhaled corticosteroids are used for long-term control. Injections may be used for severe cases or acute attacks. Proper use and monitoring by a healthcare provider are crucial to minimize side effects.",0.702361,0.742231,0.721746,0.0,0.308943,0.081744,0.157182
+47,,"Both corticosteroids and anabolic steroids are sometimes just called steroids. However, corticosteroids are very different from anabolic steroids. Corticosteroids reduce the swelling in the airways that make breathing difficult and also reduce the amount of mucus produced in the lungs. Anabolic steroids have an effect similar to that of the male hormone testosterone, and are used illegally by some athletes to increase muscle mass, strength and endurance. Corticosteroids do not have these effects.","Corticosteroids and anabolic steroids are both types of steroids, but they have different functions and uses.
+
+Corticosteroids are a class of steroid hormones that are produced in the adrenal cortex of vertebrates. They are involved in a wide range of physiological processes, including stress response, immune response, and regulation of inflammation. In the context of asthma, corticosteroids are used as anti-inflammatory agents to reduce swelling and mucus production in the airways, thereby easing breathing difficulties. They are often administered as inhalers, tablets, or injectables.
+
+Anabolic steroids, on the other hand, are synthetic derivatives of testosterone, a male sex hormone. They are primarily used to promote muscle growth and enhance athletic performance. Anabolic steroids are not typically used in the treatment of asthma. In fact, their misuse can lead to adverse effects such as liver damage, cardiovascular issues, and hormonal imbalances.
+
+In summary, corticosteroids are used therapeutically to manage inflammation in asthma, while anabolic steroids are used for muscle building and performance enhancement, and are not related to asthma treatment.",0.729667,0.814832,0.769901,0.045819,0.378601,0.107884,0.230453
+48,,"Inhaled non-steroidal anti-inflammatory medications, such as the cromones (sodium cromoglicate and nedocromil), have weaker anti-inflammatory effects than corticosteroids. If your doctor gives you an inhaled non-steroidal anti-inflammatory medication, you must take it regularly, even if you are not wheezing in the same way as you should take an inhaled corticosteroid. If you are being treated with one of these medications, you will need to take an airway opener from another inhaler to treat any asthma attacks.","Inhaled non-steroidal anti-inflammatory medications (NSAIDs) for asthma are not typically used as a primary treatment for asthma. However, some studies have explored the use of inhaled NSAIDs like ketorolac and ibuprofen for their potential anti-inflammatory effects in asthma management. These medications can help reduce inflammation in the airways, potentially improving symptoms in some patients. It's important to note that their use is not standard practice and should be discussed with a healthcare provider.",0.730986,0.716478,0.723659,0.050635,0.329114,0.128205,0.202532
+49,,"There are no alternative treatments that control asthma as effectively as inhaled corticosteroids. Inhaled non-steroidal anti-inflammatory medications, such the cromones, are not so effective and do not usually relieve the inflammation completely.
+
+Anti-leukotrienes are tablets that are taken by mouth and are helpful to some people with asthma. Often they are not an effective alternative to inhaled corticosteroids for the long-term control of asthma and the prevention of attacks, but some patients benefit from their use.
+
+Antihistamine tablets are not helpful in the treatment of asthma. However, patients who also have hay fever may find that their asthma improves when the hay fever is successfully controlled, and antihistamines may be successfully used to treat hay fever.
+
+Some airway openers, such as theophylline, can be taken by mouth in long-acting preparations. To select the safe and effective dose for an individual patient, and thus achieve the best effect, blood levels of the drug may need to be measured and the dose adjusted. In general, long-acting airway openers are not an alternative to inhaled corticosteroids, because these medications do not fully relieve the underlying inflammation of asthma. The inflammation tends to become worse over time, causing more frequent asthma attacks and more severe symptoms. Although some patients find that their asthma can be satisfactorily controlled by the regular use of theophylline tablets or capsules, these treatments have been largely replaced by inhaled medications. If you have been using theophylline for some time, you may want to discuss todays alternative treatments with your doctor.","Yes, there are several alternative treatments for asthma, though inhaled corticosteroids are often the first line of treatment due to their effectiveness in reducing inflammation in the airways. Alternatives include:
+
+1. **Leukotriene Modifiers**: Such as montelukast and zafirlukast, which help reduce inflammation and bronchoconstriction.
+2. **Long-acting Beta Agonists (LABAs)**: Used in combination with inhaled corticosteroids for better control of asthma symptoms.
+3. **Biologic Therapies**: For severe asthma, monoclonal antibodies like omalizumab can be used to target specific pathways in the immune system.
+4. **Asthma Education and Action Plans**: While not a direct treatment, these can help manage asthma effectively by teaching patients how to avoid triggers and use medications properly.
+
+It's important to consult with a healthcare provider to determine the best treatment plan based on the severity of asthma and individual patient needs.",0.721256,0.729001,0.725108,0.0,0.340967,0.081841,0.173028
+50,,"Yes. Asthma is a long-term (chronic) disease that causes inflammation and narrowing of the airways. Your asthma does not stay the same, but changes over time, and some degree of inflammation is usually present, even when you are unaware of any symptoms.
+
+People with asthma sometimes forget or choose not to take their anti-inflammatory medication, especially during periods when they are feeling well. When they start to get symptoms of asthma, they increase the dose of airway opener (bronchodilator). However, this will not treat the underlying inflammation. At the first sign of symptoms of asthma, you should re-start your anti-inflammatory medication if you have stopped it, in addition to using an airway opener.
+
+You should not stop using your inhaled corticosteroid regularly at any time unless you have discussed this with your doctor first.
+
+Inhaled corticosteroids are recommended for treating asthma because they are anti-inflammatory. Aspirin is also anti-inflammatory, but is not recommended for people with asthma. Why?
+
+Corticosteroids and aspirin are both anti-inflammatory, but work in very different ways and relieve different types of inflammation. Aspirin has no effect on the inflammation of the airways that occurs in asthma. More seriously, in some patients with asthma, aspirin may provoke severe attacks of asthma. Any patient who is known to have such aspirin sensitivity should avoid the use of aspirin at all times. Even in other patients, aspirin has no beneficial effects on asthma.","Yes, even if you feel well, it is important to continue using your inhaled corticosteroid as prescribed by your healthcare provider. Inhaled corticosteroids are used to control and prevent asthma symptoms and inflammation in the airways. Regular use helps to maintain control over your asthma, preventing exacerbations and improving your overall lung function. Stopping the medication without consulting your doctor can lead to worsening symptoms and increased risk of asthma attacks.",0.757369,0.69847,0.726728,0.010246,0.262821,0.064516,0.147436
+51,,"If you have asthma and have used aspirin or a similar medicine (often called non-steroidal anti-inflammatory drugs or NSAIDs) without any worsening of your asthma, you can continue to use it. If, however, you have had asthma symptoms after using aspirin or an NSAID, you should avoid these drugs and use paracetamol or another medicine instead. You should discuss appropriate alternatives with your doctor if necessary.","The question seems to be a mix-up between asthma and musculoskeletal conditions. For asthma, anti-inflammatory medications such as inhaled corticosteroids (e.g., fluticasone, budesonide) are commonly used to reduce inflammation in the airways. However, for musculoskeletal conditions like strained muscles, aching joints, severe back pain, or rheumatism, anti-inflammatory medications like NSAIDs (e.g., ibuprofen, naproxen) or corticosteroids (e.g., prednisone) are typically used. It's important to consult a healthcare provider for an accurate diagnosis and appropriate treatment plan.",0.675448,0.701249,0.688107,0.0,0.213333,0.027027,0.146667
+52,,"Hyposensitisation is often referred to as allergy vaccination. It usually involves having a series of injections of the allergen or allergens that are known to cause your asthma. The dose of the injections is gradually increased, with the aim that the body will learn to handle these allergens better and no longer develop asthma on exposure to them.
+
+Hyposensitisation is sometimes suitable for the treatment of asthma provoked by pollen, some animals or dust mites. It is most likely to be successful if your asthma is caused by only one or a few allergens. If your asthma reacts to many different things, it will not usually get better with this treatment.
+
+Hyposensitisation has been used for more than 80 years and is still the only treatment that can potentially reduce your reaction to a specific allergen. The method works for asthma that has been provoked by pollen, furry animals and dust mites, but not for mould. However, there is a risk of serious reactions to the injections, so they should only be given by a specialist, and usually only in a hospital clinic. The risks of these injections limit their availability in some countries, and the treatment is also relatively expensive.","Hyposensitization, also known as allergen immunotherapy or allergy shots, is a treatment for asthma and other allergic conditions. It involves gradually exposing the patient to increasing amounts of the allergen to which they are sensitive. The goal is to desensitize the immune system, reducing the severity of allergic reactions over time. This method is particularly useful for individuals with allergies that trigger asthma symptoms, as it can lead to long-term relief from allergic reactions and potentially reduce the need for asthma medications.",0.760976,0.712484,0.735932,0.0,0.323944,0.035461,0.161972
+53,,"First of all, be sure that you are using an effective anti-inflammatory treatment. If cold air causes asthma symptoms, inhaled corticosteroids are probably needed. If you are already taking them, ask your doctor whether you should increase the dose or take additional treatment. A long-acting bronchodilator, such as formoterol, may be the best choice.
+
+A face mask may also help by heating and moisturising the inhaled air, because cold air dries and irritates the mucus membranes in the airways, especially in people with asthma. Your doctor or pharmacist will be able to advise you.","Cold weather can exacerbate asthma symptoms due to the dry and cold air. Here are some strategies to help manage your asthma in cold weather:
+
+1. **Use a Respiratory Protection Device**: Consider using a face mask or scarf to cover your nose and mouth. This can help warm and humidify the air you breathe, reducing irritation.
+
+2. **Stay Warm**: Dress in layers to keep your body warm. Cold air can trigger asthma symptoms, so it's important to maintain a comfortable body temperature.
+
+3. **Use a Humidifier**: Indoors, use a humidifier to add moisture to the air, which can help prevent dryness and irritation.
+
+4. **Avoid Triggers**: Be aware of other potential triggers such as smoke, strong odors, or allergens that might be more prevalent in cold weather.
+
+5. **Regular Medication**: Ensure you are taking your prescribed asthma medications as directed by your healthcare provider.
+
+6. **Monitor Your Symptoms**: Keep track of your symptoms and peak flow readings to identify any changes or worsening of your condition.
+
+7. **Consult Your Doctor**: If you find that your symptoms are worsening, consult your healthcare provider to adjust your treatment plan if necessary.
+
+By implementing these strategies, you can help manage your asthma symptoms when exposed to cold weather.",0.635265,0.690506,0.661735,0.0,0.298013,0.06,0.145695
+54,,"Many people focus on the side effects of treatment so much that they forget that poorly treated asthma can also cause side effects. Apart from the (fortunately low) risk of dying from asthma, there is also a risk that lung function will deteriorate over the years and that you will become disabled by chronic asthma as you age. Children with poorly treated asthma do not grow properly and pregnant women with poorly controlled asthma have a higher risk of complications, for example poor growth or death of the unborn baby.","Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing. While asthma itself is not a disease but a condition, the symptoms and treatments can have side effects.
+
+For instance, the use of inhaled corticosteroids, a common treatment for asthma, can cause side effects such as oral thrush (a fungal infection in the mouth), hoarseness, and coughing. Long-term use of these medications may also lead to decreased bone density and growth in children.
+
+In addition, some asthma medications, like beta-agonists, can cause side effects such as tremors, increased heart rate, and nervousness.
+
+It is important for individuals with asthma to work closely with their healthcare providers to manage their condition effectively while minimizing potential side effects. Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, chest tightness, and coughing. While asthma itself is not a disease but a condition, the symptoms and treatments can have side effects.
+
+For instance, the use of inhaled corticosteroids, a common treatment for asthma, can cause side effects such as oral thrush (a fungal infection in the mouth), hoarseness, and coughing. Long-term use of these medications may also lead to decreased bone density and growth in children.
+
+In addition, some asthma medications, like beta-agonists, can cause side effects such as tremors, increased heart rate, and nervousness.
+
+It is important for individuals with asthma to work closely with their healthcare providers to manage their condition effectively while minimizing potential side effects.",0.618424,0.667173,0.641874,0.0,0.205556,0.027933,0.138889
+55,,"No, but if you are not sleeping well because you have poorly treated asthma, you can become tired and forgetful.
+
+Theophylline and related medications can also adversely affect your sleep and may therefore make you feel tired indirectly. If you suspect something like this, discuss it with the doctor who treats your asthma.
+
+The older antihistamines can make you feel drowsy. If you use these medications for hay fever or other allergies and feel tired, you should talk to your doctor about possible alternative medications. If you are allergic to pollen, it is also possible that this causes you to feel tired during the pollen season.","Yes, tiredness and forgetfulness can be side effects of some asthma medications, particularly those that affect the central nervous system, such as beta-agonists. It's important to discuss these symptoms with your healthcare provider, as they may adjust your treatment plan to minimize these side effects. Asthma medications, especially those that act on the central nervous system like beta-agonists, can lead to side effects such as tiredness and forgetfulness. It is crucial to consult with your healthcare provider if you experience these symptoms, as they may consider altering your medication regimen to reduce these side effects.",0.701428,0.699484,0.700455,0.0,0.27451,0.019802,0.147059
+56,,"As with most medications, inhaled corticosteroids may have side effects in some people.
+
+The most common side effect is a fungal infection in the mouth (oral candidiasis). This is easily treated, and can be prevented by rinsing the mouth after inhalation or sometimes by changing your inhalation technique. Inhaled corticosteroids do not cause fungal (or other) infections in the lungs.
+
+Some people find that their voices become husky after using an inhaled corticosteroid. This usually passes when the dose is lowered, but the hoarseness can sometimes prevent further treatment.
+
+Side effects of inhaled corticosteroids elsewhere in the body are very rare, in contrast to the known risks of corticosteroids given by mouth. Occasionally bruising can occur. There is no evidence that the most commonly prescribed doses of inhaled corticosteroids can lead to osteoporosis or to cataracts in the eyes, for example although these are recognised complications of corticosteroid tablets.
+
+Inhaled corticosteroids are a very effective way of treating asthma, and in most people the benefit of this effective treatment is much greater than any risk of side-effects. You should discuss any worries you may have about this with your doctor.","Inhaled corticosteroids are considered safe for long-term use in the management of asthma. They are the most effective treatment for controlling chronic asthma symptoms and preventing asthma attacks. While they can cause some side effects, such as oral thrush and hoarseness, these are generally mild and can be minimized by rinsing the mouth after inhalation. Long-term use does not typically lead to systemic side effects like those seen with oral corticosteroids. Inhaled corticosteroids are generally safe for long-term use in asthma management. They effectively control chronic symptoms and prevent exacerbations. Side effects like oral thrush and hoarseness can occur but are usually mild and manageable. Systemic side effects are rare with inhaled forms compared to oral corticosteroids.",0.763043,0.739237,0.750952,0.058993,0.360129,0.12945,0.192926
+57,,"Yes, absolutely! These anti-inflammatory medications are currently the most effective treatment for asthma, because they treat the causes of asthma instead of just relieving the symptoms. With long-term treatment, the mucus membranes lining the airways return to normal without any harmful effects on the lungs.
+
+Early treatment with inhaled corticosteroids seems to help prevent asthma from getting worse. This may make it less likely that you will have severe attacks and the treatment these require.","Inhaled corticosteroids are a mainstay in the long-term management of asthma, particularly for controlling chronic inflammation and preventing asthma attacks. However, they should be used as prescribed by a healthcare provider. Overuse can lead to side effects such as oral thrush and hoarseness. It's important to follow the prescribed dosage and use a spacer if recommended. Inhaled corticosteroids are generally beneficial for managing asthma, but they should be used according to a healthcare provider's instructions to avoid potential side effects.",0.71635,0.711172,0.713752,0.0,0.2375,0.037975,0.1375
+58,,No.,"Corticosteroids used in asthma medications are not addictive. They are anti-inflammatory drugs that help reduce swelling and mucus production in the airways, making it easier to breathe. Unlike opioids or other substances that can lead to physical dependence, corticosteroids do not cause addiction. However, long-term use of corticosteroids can lead to side effects such as osteoporosis, cataracts, and adrenal suppression, so it's important to use them as prescribed by a healthcare provider.",0.3798,0.454401,0.413765,0.0,0.0,0.0,0.0
+59,,"The skin and the blood vessels just below the surface of the skin are very sensitive to the effects of corticosteroids. If you apply a corticosteroid cream to the same area of skin for a long time, the skin and the walls of the blood vessels become fragile and break easily, which makes bruising common. Because of this, doctors and scientists have looked very carefully to see whether this could happen in the airways of people treated with corticosteroids over a long period of time. However, no signs of damage to the airways have been seen and it seems that the lining of the airways reacts to corticosteroids in a different way from the skin.","Inhaled corticosteroids are used for long-term management of asthma because they target the airways directly, reducing inflammation and preventing asthma attacks. They have a localized effect, minimizing systemic absorption and reducing the risk of systemic side effects.
+
+On the other hand, corticosteroid creams are applied to the skin to treat inflammation and itching from conditions like eczema or dermatitis. They are typically used for short-term relief because prolonged use can lead to skin thinning, increased susceptibility to infections, and other dermatological issues. The skin is a barrier that can be compromised with long-term use, hence the need for short-term application.",0.671829,0.71659,0.693488,0.0,0.310502,0.036866,0.155251
+60,,"There is a slight risk of fungal infection in the mouth when using inhaled corticosteroids. Although this affects very few people, it does not hurt to rinse out your mouth after inhaling a corticosteroid, whenever convenient (e.g. at home in the morning or evening). If you are out during the day and it is inconvenient to rinse, this is not a problem, as the risk is very small.","Yes, it is generally recommended to rinse your mouth after using an inhaled corticosteroid. This helps to prevent oral thrush, a fungal infection that can occur when the medication deposits in the mouth and throat. Rinsing with water or using a mouthwash can help reduce the risk of developing this condition.",0.7663,0.740035,0.752938,0.0,0.45,0.152542,0.216667
+61,,"There is no risk in taking a double dose on a single occasion, but try not to make a habit of this!","It is not advisable to take a double dose of inhaled corticosteroids if you are unsure whether you have taken your daily dose. Instead, consult with your healthcare provider for guidance. They may suggest using a backup inhaler if you have one, or they might recommend a rescue inhaler if you are experiencing symptoms. It is important to follow your asthma action plan and communicate with your healthcare provider to ensure safe and effective management of your condition.",0.636482,0.737686,0.683358,0.0,0.18,0.040816,0.14
+62,,"There is no evidence that inhaled corticosteroids in commonly prescribed doses can cause osteoporosis, but it is reasonable for all patients with asthma (especially older women) to take steps to avoid this, as it is a recognized consequence of increasing age and physical inactivity (and of corticosteroid tablets used in the long-term).
+
+Physical activity will help your skeleton grow stronger and is probably the most important factor in preventing osteoporosis. Inactivity, for example due to very poor lung function or fear of getting an asthma attack, makes osteoporosis worse. Effective asthma treatment that makes it possible to lead an active life is therefore very important. Calcium supplements for middle-aged and older women who are unlikely to get sufficient calcium in their ordinary food may also reduce the risk of osteoporosis, and specific treatments are available for those at special risk. Research in this field will probably lead to further developments in the future.","While asthma itself is not a direct cause of osteoporosis, certain medications used to treat asthma, such as corticosteroids, can potentially lead to bone density loss if used long-term. Here are some strategies to help prevent osteoporosis:
+
+1. **Maintain a Balanced Diet**: Ensure you get enough calcium and vitamin D, which are crucial for bone health.
+
+2. **Regular Exercise**: Weight-bearing exercises like walking, jogging, or resistance training can help maintain bone density.
+
+3. **Avoid Smoking and Excessive Alcohol**: Both can contribute to bone loss.
+
+4. **Monitor Medication Use**: Discuss with your healthcare provider about the potential impact of long-term asthma medications on bone health and explore alternatives if necessary.
+
+5. **Regular Bone Density Tests**: Especially if you are on long-term corticosteroids, regular bone density tests can help monitor bone health.
+
+6. **Calcium and Vitamin D Supplements**: If dietary intake is insufficient, supplements may be recommended.
+
+7. **Avoid High-Impact Activities**: If you have asthma, high-impact activities might trigger symptoms. Choose low-impact exercises that are safe for your condition.
+
+8. **Stay Hydrated**: Adequate hydration is important for overall health, including bone health.
+
+9. **Limit Caffeine**: Excessive caffeine can interfere with calcium absorption.
+
+10. **Regular Check-ups**: Regular visits to your healthcare provider can help manage asthma effectively and monitor bone health.
+
+Remember, it's important to consult with your healthcare provider before making any significant changes to your lifestyle or medication regimen.",0.640184,0.702743,0.670006,0.0,0.260204,0.015385,0.117347
+63,,"You may remember that your asthma seemed to start in connection with a viral infection probably when you were a child. However, the infection probably did not cause the asthma; more likely, it only triggered the symptoms. The condition was already there and would have developed sooner or later, with or without the infection. You were probably born with a tendency to develop asthma.
+
+Some children are allergic and have a mild form of asthma (inflammation of the airways) without being aware of it. Then they get a viral infection and the obvious asthma symptoms appear.","Infections do not cause asthma, but they can trigger asthma attacks or exacerbate symptoms in individuals who already have asthma. Viral infections, such as the common cold or influenza, are common triggers for asthma exacerbations. Bacterial infections can also contribute to worsening asthma symptoms. It's important for individuals with asthma to manage their condition effectively and take preventive measures, such as vaccinations and avoiding known triggers, to minimize the impact of infections on their respiratory health.",0.729497,0.730034,0.729766,0.0,0.312139,0.023392,0.138728
+64,,"Yes, viral respiratory infections, such as the common cold or flu, can trigger attacks in people who have asthma. Try to avoid contact with people if you know they have a respiratory infection.
+
+Viral infections are thought to be more likely to trigger symptoms if the underlying inflammation in asthma is not properly treated.","Yes, infections, particularly respiratory infections like the common cold or influenza, can trigger asthma symptoms in many individuals. Viral infections can cause inflammation and swelling in the airways, leading to increased mucus production and bronchospasm, which can exacerbate asthma symptoms. It is important for individuals with asthma to manage their infections promptly and follow their asthma action plan to prevent exacerbations.",0.784781,0.800383,0.792505,0.086471,0.4,0.106195,0.278261
+65,,"Penicillin and other antibiotics are only effective against bacterial infections. The inflammation in asthma is not caused by bacteria, so antibiotics have no effect. In addition, most infections of the airways are caused by viruses, and would not respond to antibiotic treatment.
+
+People with asthma can get bacterial infections in the lungs (bronchitis or even pneumonia), which may need to be treated with antibiotics. But antibiotics do not have any effect on the long-term, underlying inflammation in asthma. This inflammation needs to be treated with a controller (anti-inflammatory) medication. And since the inflammation usually also causes tightening of the muscles around the airways and narrowing of the airways, it should also be treated with an airway opener or reliever medication (bronchodilator).","Antibiotics are ineffective against asthmatic inflammation because asthma is not caused by bacterial infections. Asthma is a chronic inflammatory disease of the airways, often triggered by allergens, irritants, or stress, and involves an immune response that leads to airway constriction and mucus production. Antibiotics target bacterial infections, not the inflammatory processes or immune responses involved in asthma.",0.795804,0.748547,0.771453,0.049465,0.355556,0.11236,0.244444
+66,,"No. Asthma cannot be spread to other people. On the other hand, a person with asthma can catch bronchitis just as easily as anyone else. And bronchitis can be contagious, in the same way as an ordinary cold.","No, asthma is not contagious. It is a chronic respiratory condition characterized by inflammation and narrowing of the airways, which can lead to wheezing, shortness of breath, and coughing. Asthma is caused by a combination of genetic and environmental factors, and it cannot be transmitted from person to person.",0.677434,0.708952,0.692835,0.0,0.275862,0.047059,0.137931
+67,,"Yes. Even though physical exercise is a common trigger of asthma symptoms, it is just as important for people with asthma to exercise as for anyone else. Keep in mind that it takes time to get in shape and you lose fitness quickly when you stop exercising regularly.
+
+With the right medication, most people with asthma will be able to do some kind of physical exercise, many will feel no restrictions, and some will only react to exercise in combination with other triggers.","Yes, it is generally beneficial for people with asthma to engage in regular exercise, as it can improve lung function, increase endurance, and enhance overall physical health. However, it is important for individuals with asthma to take certain precautions:
+
+1. **Consult with a Healthcare Provider**: Before starting any new exercise regimen, individuals with asthma should consult with their healthcare provider to ensure the exercise plan is safe and appropriate for their condition.
+
+2. **Warm-Up and Cool Down**: Gradually increasing the intensity of exercise and allowing time to cool down can help prevent asthma symptoms.
+
+3. **Monitor Symptoms**: Pay attention to any signs of asthma exacerbation, such as wheezing, coughing, or shortness of breath, and adjust the exercise routine accordingly.
+
+4. **Use Medication as Prescribed**: Ensure that any prescribed asthma medications, such as inhalers, are used as directed to manage symptoms effectively.
+
+5. **Choose Appropriate Activities**: Some activities may be more suitable than others. For example, swimming is often recommended for people with asthma because the warm, moist air can be less irritating to the airways.
+
+6. **Stay Hydrated**: Drinking plenty of water before, during, and after exercise can help keep the airways moist and reduce the risk of asthma symptoms.
+
+7. **Avoid Triggers**: Be aware of environmental triggers such as cold air, pollen, or pollution, and try to exercise in environments that minimize exposure to these triggers.
+
+By following these guidelines, individuals with asthma can safely enjoy the benefits of physical activity while managing their condition effectively.",0.637911,0.724934,0.678644,0.033097,0.271903,0.091185,0.175227
+68,,"The common symptoms of exercise-induced asthma are:
+
+    wheezing
+    abnormal shortness of breath
+    tightness in the chest
+    coughing
+
+You may have just one of these symptoms or a combination of them.
+
+Treatment with a airway opener (reliever) medicine, such as a quick-acting bronchodilator, should immediately relieve one or more of the symptoms. If not, you should discuss other possible reasons for the symptoms with your doctor.","Exercise is generally beneficial for overall health, but it can trigger asthma symptoms in some individuals due to several reasons:
+
+1. **Respiratory Rate Increase**: During exercise, the body's respiratory rate increases, which can lead to the inhalation of more allergens or irritants.
+
+2. **Temperature and Humidity**: Cold, dry air or high humidity can irritate the airways, leading to bronchoconstriction.
+
+3. **Increased Breathing Rate**: Rapid breathing can cause the airways to narrow, making it harder to breathe.
+
+4. **Allergens**: Outdoor activities may expose individuals to pollen, mold, or other allergens that can trigger asthma symptoms.
+
+5. **Physical Exertion**: Intense physical activity can lead to the release of chemicals in the body that cause inflammation and constriction of the airways.
+
+To mitigate these effects, individuals with asthma can take preventive measures such as using a pre-exercise inhaler, warming up before exercise, and choosing indoor activities during high pollen days.",0.619666,0.682277,0.649466,0.0,0.222222,0.028037,0.111111
+69,,"The best way to avoid exercise-induced asthma is to make sure that your asthma is properly controlled and, if necessary, that you take extra medication before exercising. A good warm-up also reduces the risk of exercise-induced asthma.
+
+Anti-inflammatory treatment, preferably with inhaled corticosteroids, taken regularly will prevent exercise-induced asthma in many people. However, some people still need to take an airway opener (bronchodilator) before exercise. Many people with asthma should have daily treatment with both inhaled corticosteroids and a long-acting airway opener. Combination medications are now available in many countries.
+
+Particular types of exercise, such as running and jogging, are more likely to expose the airways to large volumes of dry air and trigger asthma, while less vigorous activities, like swimming and yoga, are less likely to cause these symptoms.","To avoid exercise-induced asthma, consider the following strategies:
+
+1. **Pre-exercise Medication**: Use a short-acting beta-agonist inhaler 15-30 minutes before exercising to prevent symptoms.
+
+2. **Warm-up and Cool Down**: Engage in a gradual warm-up and cool-down to help your airways adjust to increased activity levels.
+
+3. **Environmental Control**: Exercise in environments with clean air and low pollen counts. Avoid exercising outdoors during high pollen seasons.
+
+4. **Breathing Techniques**: Practice breathing exercises to improve lung function and control breathing patterns during exercise.
+
+5. **Stay Hydrated**: Drink plenty of water before, during, and after exercise to keep airways moist and prevent irritation.
+
+6. **Monitor Air Quality**: Check local air quality reports to avoid exercising in polluted conditions.
+
+7. **Consult a Healthcare Provider**: Work with your doctor to develop a personalized asthma action plan for exercise.
+
+By implementing these strategies, you can help minimize the risk of exercise-induced asthma and maintain an active lifestyle.",0.653849,0.698673,0.675518,0.040706,0.325424,0.081911,0.155932
+70,,"Aerobics is an effective activity, which allows you to train in sessions at varying intensities. The purpose of aerobics is to develop your breathing and heart capacity. If you start by warming up with light jogging, you can, for example, increase the intensity for a couple of minutes, slow down again and then increase the speed once more.
+
+Indoor swimming is also thought to be good exercise, because it takes place at a controlled temperature and in a humid environment. You can also try an aerobic approach by increasing and decreasing your swimming speed.
+
+Whatever you do, make sure you warm up first, because this will reduce the likelihood of exercise-induced asthma.
+
+The most important thing is that the exercise you do is fun; otherwise it is easy to skip it. It is important to find the exercise that suits you!","Yes, certain physical activities can be more suitable for people with asthma, depending on the severity and control of their condition. Activities that are less likely to trigger asthma symptoms include swimming, yoga, and walking. These activities are generally low-impact and can help improve lung function and overall fitness without overly stressing the respiratory system.
+
+Swimming is particularly beneficial because the warm, moist air in the pool can help keep airways open, reducing the likelihood of asthma attacks. Yoga can improve breathing techniques and increase lung capacity, while walking is a low-impact exercise that can be easily adjusted to fit an individual's fitness level.
+
+It's important for individuals with asthma to consult with their healthcare provider before starting any new exercise regimen. They can provide personalized advice and ensure that any exercise plan is safe and effective. Additionally, having a rescue inhaler on hand during physical activity can help manage any unexpected asthma symptoms.",0.699736,0.700136,0.699936,0.0,0.306667,0.026846,0.16
+71,,"Your training programme should help you get in better shape gradually. Remember that it takes time to get in shape. As a rule of thumb, you should feel fine after every training session. It is therefore important that you do not try to do too much at once. You should not feel totally exhausted for a couple of hours after every training session.
+
+If you often get asthma symptoms when you exercise intensively, this could be a signal that you are not taking enough medication or that your asthma does not allow such intensive exercise. Talk to your doctor about your treatment to see if anything can be done.","The intensity of exercise for someone with asthma depends on several factors, including the severity of the condition, control of symptoms, and the individual's overall health. Here are some general guidelines:
+
+1. **Consult with a Healthcare Provider**: Before starting any exercise regimen, it's crucial to consult with a healthcare provider to ensure it's safe and appropriate for your specific condition.
+
+2. **Start Slowly**: Begin with low-intensity activities and gradually increase intensity as your body adapts.
+
+3. **Warm-Up and Cool Down**: Incorporate a warm-up and cool-down period to help prevent asthma symptoms.
+
+4. **Monitor Symptoms**: Pay attention to any signs of asthma exacerbation, such as wheezing, coughing, or shortness of breath, and adjust your activity accordingly.
+
+5. **Use Medication as Prescribed**: Ensure you have your inhaler or other prescribed medications available and use them as directed before and during exercise.
+
+6. **Stay Hydrated**: Drink plenty of water before, during, and after exercise to help keep airways moist.
+
+7. **Avoid Triggers**: Be aware of environmental triggers such as cold air, pollen, or pollution, and try to exercise in environments that are less likely to trigger symptoms.
+
+8. **Regular Monitoring**: Keep track of your asthma symptoms and peak flow readings to understand how exercise affects your condition.
+
+9. **Personalize Your Plan**: Tailor your exercise plan to your preferences and lifestyle, ensuring it remains enjoyable and sustainable.
+
+10. **Emergency Plan**: Have a plan in place in case of an asthma attack, including knowing when to seek medical help.
+
+Remember, everyone's experience with asthma is unique, so it's important to find what works best for you through trial and error and regular communication with your healthcare provider.",0.623483,0.71053,0.664166,0.0,0.205128,0.020619,0.097436
+72,,"Absolutely not! Very often, just preparing yourself for jogging somewhat differently can be enough. There are two things you should remember. First, take your airway opener medication about 15 minutes before you start. Secondly, warm up properly before you go full steam ahead.","Not necessarily. Many people with asthma can continue jogging with proper management and precautions. Here are some steps you can take:
+
+1. **Consult with your healthcare provider**: They can help you understand your asthma triggers and adjust your treatment plan if necessary.
+
+2. **Use your inhaler as prescribed**: Make sure to use your inhaler before exercising to prevent symptoms.
+
+3. **Warm-up and cool down**: Gradually increase your activity level and allow time to cool down after jogging.
+
+4. **Monitor your symptoms**: Pay attention to any signs of worsening asthma, such as wheezing or shortness of breath, and stop if they occur.
+
+5. **Consider indoor or controlled environments**: If outdoor conditions are poor, consider exercising indoors where you can control the environment.
+
+6. **Stay hydrated**: Drink plenty of water before, during, and after your jog.
+
+7. **Avoid known triggers**: If you know certain triggers (like cold air or pollen) worsen your asthma, try to avoid them when possible.
+
+Remember, everyone's asthma is different, so what works for one person may not work for another. It's important to work with your healthcare provider to find the best approach for you.",0.587715,0.691631,0.635453,0.0,0.128205,0.008621,0.094017
+73,,"Make sure that you always carry a quick-relief airway opener medication and use it promptly if necessary.
+
+If exercising often causes asthma symptoms, your may need to take a better preventive medication, or to avoid a particular kind of exercise.","If you experience asthma symptoms while exercising, it's important to stop the activity and take a break. Use your rescue inhaler as prescribed by your healthcare provider to relieve symptoms. Ensure you have your inhaler with you during exercise and consider pre-medicating with a bronchodilator if recommended by your doctor. Gradually increase the intensity of your exercise to help build tolerance. Consult with your healthcare provider to develop an asthma action plan tailored to your needs.",0.672923,0.708423,0.690217,0.0,0.285714,0.034188,0.168067
+74,,"Yes. Most of the commonly prescribed asthma medications are allowed in competitive sports. Generally, the use of inhaled anti-inflammatory medicines and some bronchodilators is allowed, but corticosteroids in tablet, syrup, suppository or injectable form are banned.
+
+Check with your doctor or the national sports associations especially if competing internationally to be sure that your medication does not violate any doping rules. In some cases, you will need a certificate from your doctor about your need for asthma medication.","Yes, many individuals with asthma can participate in competitive sports with proper management and medication. It is crucial to have a well-controlled asthma plan, which may include using a pre-exercise inhaler and having rescue inhalers available. Consultation with a healthcare provider is essential to ensure safety and optimize performance.",0.716972,0.686958,0.701644,0.0,0.184615,0.03125,0.153846
+75,,"Chronic rheumatism can affect the lungs, but not in the form of asthma. Long-term treatment with corticosteroid tablets (e.g. for asthma) can provoke diabetes, but inhaled corticosteroids taken directly into the lungs have not been shown to have this effect. Many people with asthma can experience symptoms from the nose such as rhinitis and some also suffer from polyposis. Otherwise, there is no connection between asthma and other chronic diseases.","Asthma is primarily a respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, and coughing. While asthma itself is not directly caused by rheumatism or diabetes, there can be associations between these conditions.
+
+1. Rheumatism: Rheumatic diseases, such as rheumatoid arthritis, can coexist with asthma. Inflammation is a common thread in both conditions, and patients with rheumatic diseases may have a higher prevalence of asthma. The exact relationship is complex and may involve shared genetic or environmental factors.
+
+2. Diabetes: There is some evidence to suggest that individuals with diabetes may have a higher risk of developing asthma. The mechanisms behind this association are not fully understood, but it may involve chronic inflammation and immune dysregulation.
+
+It is important to note that while there may be associations between asthma and other chronic diseases, these conditions do not necessarily cause one another. Instead, they may share common risk factors or pathways that contribute to their development. Asthma is primarily a respiratory condition characterized by inflammation and narrowing of the airways, leading to symptoms such as wheezing, shortness of breath, and coughing. While asthma itself is not directly caused by rheumatism or diabetes, there can be associations between these conditions.
+
+1. Rheumatism: Rheumatic diseases, such as rheumatoid arthritis, can coexist with asthma. Inflammation is a common thread in both conditions, and patients with rheumatic diseases may have a higher prevalence of asthma. The exact relationship is complex and may involve shared genetic or environmental factors.
+
+2. Diabetes: There is some evidence to suggest that individuals with diabetes may have a higher risk of developing asthma. The mechanisms behind this association are not fully understood, but it may involve chronic inflammation and immune dysregulation.
+
+It is important to note that while there may be associations between asth",0.626209,0.680476,0.652216,0.028095,0.207447,0.048128,0.106383
+76,,"COPD is a collective name for chronic bronchitis and emphysema, two diseases that are almost always caused by smoking. Many of the symptoms of COPD are similar to those of asthma (e.g. breathlessness, wheezing, production of too much mucus, coughing). COPD is generally a more serious disease than asthma, because the changes in the airways are much more difficult to treat, and it usually has a worse outcome. Unfortunately, COPD can cause greater long-term disability and have a greater effect on the heart and other organ systems than asthma.","Asthma and COPD (chronic obstructive pulmonary disease) are both chronic respiratory conditions, but they have distinct characteristics.
+
+Asthma is characterized by episodes of wheezing, breathlessness, chest tightness, and coughing, particularly at night or early in the morning. These symptoms are due to inflammation and narrowing of the airways, which can be triggered by allergens, exercise, cold air, or stress. Asthma is often diagnosed in childhood and can improve with age.
+
+COPD, on the other hand, is a progressive disease that is primarily caused by long-term exposure to irritating gases, most commonly from cigarette smoke. Symptoms include breathing difficulty, cough, mucus production, and wheezing. Unlike asthma, COPD is not reversible and tends to worsen over time.
+
+In summary, while both conditions involve airway obstruction and breathing difficulties, asthma is often reversible and more common in younger individuals, whereas COPD is progressive and more prevalent in older adults with a history of smoking.",0.740659,0.775321,0.757594,0.0,0.386831,0.074689,0.17284
+77,,"No, emphysema is different from asthma, although some of the symptoms, such as wheezing and difficulty in breathing, may seem similar. Emphysema is a disease in which the cavities in the lungs have been irreversibly damaged by external factors, such as smoking or severe air pollution. Some people are more likely to develop emphysema than others, and there are hereditary forms of the condition.
+
+Asthma is a condition caused by inflammation of the airways leading to the lungs, in which the cavities in the lungs are usually normal. Asthma attacks can be triggered by factors such as exposure to tobacco smoke or cold air, or by an allergy to pollens or dust mites.
+
+Both emphysema and asthma involve inflammation, but the type of inflammation and the parts of the airways and lungs that are affected are very different. It is possible to have both emphysema and asthma, but this is rare and it is much more common for emphysema to be combined with chronic bronchitis than with asthma.","No, emphysema and asthma are not the same. Emphysema is a chronic lung condition that is part of chronic obstructive pulmonary disease (COPD), characterized by damage to the air sacs in the lungs, leading to breathing difficulties. Asthma, on the other hand, is a respiratory condition marked by spasms in the bronchi of the lungs, causing difficulty in breathing, often due to allergens or other triggers. While both conditions affect the lungs and can cause breathing difficulties, they have different underlying causes and treatment approaches.",0.757206,0.733825,0.745332,0.051272,0.379447,0.12749,0.229249
+78,,"No specific climate is ideal for all people with asthma, since there are so many triggers for symptoms and these factors differ from person to person. If you move to another area, triggers in the new environment may provoke your asthma symptoms more or less than where you lived before. The levels of many allergens are lower at higher altitudes (e.g. in mountainous areas), and this may be beneficial if you have known allergies to pollens or dust mites.","There is no single ""best"" climate for people with asthma, as individual responses can vary. However, some general considerations can be made:
+
+1. **Temperature**: Mild temperatures are often more comfortable for people with asthma. Extreme cold or heat can trigger symptoms.
+
+2. **Humidity**: High humidity can increase the presence of allergens like mold and dust mites, which can trigger asthma symptoms. Conversely, very dry air can irritate the airways.
+
+3. **Air Quality**: Areas with low pollution levels and good air quality are generally better for asthma patients.
+
+4. **Allergens**: Regions with lower pollen counts or fewer allergens may be more suitable for some individuals.
+
+It's important for asthma patients to consult with their healthcare provider to determine the best climate for their specific condition and to develop a personalized asthma action plan. The best climate for a person with asthma is one that minimizes triggers and promotes stable air quality. Mild temperatures and low humidity levels are generally more comfortable, but individual responses can vary. It's crucial to consult with a healthcare provider for personalized advice.",0.664717,0.713501,0.688246,0.022505,0.27907,0.039062,0.147287
+79,,Everyone needs to relax sometimes. Learning techniques of relaxation and breathing may help you to avoid feelings of panic during an asthma attack.,"Relaxing exercises, such as yoga and tai chi, can be beneficial for individuals with asthma as they help reduce stress and improve breathing control. However, it's important to ensure that the exercises are performed in a well-ventilated area and that you have your inhaler nearby. Consult with your healthcare provider to tailor an exercise plan that suits your specific needs and asthma management plan.",0.674101,0.741858,0.706359,0.0,0.202247,0.0,0.134831
+80,,"There are a couple of useful breathing techniques. Sit on a chair, supporting your arms on the back of the chair; or stand up, leaning your arms on a table. Then breathe in and out calmly through slightly closed lips.
+
+Ask your physical therapist or doctor for more specific advice about these techniques.","When asthma symptoms worsen, it is important to use breathing techniques that can help alleviate symptoms and improve airflow. Here are some effective techniques:
+
+1. **Pursed Lip Breathing**: This technique involves inhaling slowly through the nose and exhaling slowly through pursed lips. It helps to slow down breathing and reduce the work of breathing.
+
+2. **Box Breathing**: This technique involves inhaling for a count of four, holding the breath for a count of four, exhaling for a count of four, and holding the breath for a count of four. It can help calm the nervous system and reduce stress.
+
+3. **Diaphragmatic Breathing**: Also known as belly breathing, this technique involves breathing deeply into the belly rather than the chest. It helps to increase lung capacity and reduce the work of breathing.
+
+4. **Breathing Exercises**: Practice deep breathing exercises regularly to strengthen the respiratory muscles and improve lung function.
+
+5. **Relaxation Techniques**: Engage in relaxation techniques such as meditation or yoga to reduce stress and anxiety, which can trigger asthma symptoms.
+
+Always consult with a healthcare professional for personalized advice and guidance on managing asthma symptoms.",0.619937,0.730751,0.670798,0.0,0.159664,0.008475,0.10084
+81,,"When you decide what type of career interests you, it is important to discuss the alternatives with an asthma specialist. It is probably not a good idea to go for a job which involves spending much time in dusty or smoky environments, or in places with potentially irritant smells.","Asthma can influence career choices in several ways, but it does not necessarily limit your professional options. Here are some considerations:
+
+1. **Occupational Hazards**: Certain professions may expose you to allergens or irritants that can trigger asthma symptoms. For example, jobs in construction, agriculture, or healthcare settings might require you to be around dust, chemicals, or other potential triggers.
+
+2. **Physical Demands**: Some careers may require physical exertion that could exacerbate asthma symptoms. It's important to consider whether your job will require heavy lifting, prolonged standing, or exposure to cold air.
+
+3. **Stress Levels**: High-stress jobs can sometimes worsen asthma symptoms. If your career involves high levels of stress, it might be beneficial to explore stress management techniques or consider a less stressful role.
+
+4. **Healthcare Access**: Ensure that your chosen career allows for easy access to healthcare facilities and medications.
+
+5. **Flexibility**: Some jobs offer more flexibility in terms of working hours or remote work options, which can be advantageous for managing asthma.
+
+6. **Supportive Environment**: Look for workplaces that have policies in place to support employees with chronic conditions, such as asthma.
+
+7. **Personal Preferences**: Ultimately, your career choice should align with your interests and strengths, not just your health condition.
+
+It's important to discuss your asthma with potential employers or during job interviews to ensure that your health needs are accommodated.",0.608446,0.700892,0.651406,0.0,0.173913,0.014599,0.094203
+82,,"Since asthma is invisible, it can be hard for the people around you to understand that you cannot cope with certain things. It is important that you tell them and remind them whenever necessary about your condition, to help them increase their knowledge and understanding and show the necessary consideration. It is reasonable to ask your friends and relatives not to smoke in your home. A number of brochures and videos with information about asthma are available at your doctors surgery, your pharmacy, or on the internet. It could be a good idea to show one of these to your relatives and friends to help them better understand what asthma is all about.","It's important to communicate your asthma triggers to those around you to help them understand your condition better. Here are some steps you can take:
+
+1. **Educate Your Surroundings**: Explain to family, friends, and colleagues that certain scents and smoke can trigger your asthma symptoms. Provide them with information on what to avoid and how to support you.
+
+2. **Use a Medical Alert Bracelet**: Wearing a medical alert bracelet can help others recognize your condition in case of an emergency.
+
+3. **Carry Your Inhaler**: Always have your inhaler with you and ensure that those around you know how to use it if necessary.
+
+4. **Create a Safe Environment**: If possible, avoid environments where smoke and strong perfumes are present.
+
+5. **Consult Your Doctor**: Discuss with your healthcare provider about any additional strategies or medications that can help manage your asthma symptoms.
+
+By taking these steps, you can help minimize your exposure to asthma triggers and maintain better control over your condition.",0.652887,0.7332,0.690717,0.0,0.407273,0.051282,0.181818
+83,,"If you have asthma and are allergic, you should not buy a pet. If you have asthma but no signs of allergy, and do not get any obvious symptoms from your pet, it is probably all right to keep it, but bear in mind that it will contribute to the amount of dust in the house.","Having pets can be a concern for individuals with asthma, as pets can trigger allergic reactions or asthma symptoms due to dander, fur, or saliva. However, many people with asthma successfully manage their condition with pets by taking preventive measures. Here are some tips:
+
+1. Choose pets wisely: Some pets are less likely to trigger allergies. For example, fish, reptiles, or certain dog breeds like poodles are often recommended.
+2. Maintain a clean environment: Regularly clean your home, vacuum frequently, and wash pet bedding to minimize allergens.
+3. Monitor your asthma: Keep track of your symptoms and have a plan in place to manage any flare-ups.
+4. Consult with your healthcare provider: Discuss your desire to have a pet and get advice on managing your asthma effectively.
+
+It's important to weigh the benefits of companionship against the potential risks and to take proactive steps to minimize any adverse effects on your asthma.",0.649077,0.706809,0.676714,0.0,0.228571,0.009615,0.142857
+84,,"It is unwise to advise someone to move to another place. Having a vacation is, in itself, a pleasant experience that makes you feel good. Living permanently in Spain might be quite different! Bear in mind that you will also have been away from allergens in your home and workplace and consider this perhaps your pet or the dust in your home, or allergens at work, are having more of an effect on your asthma than you realised.","While it's great to hear that you felt well during your holiday in Spain, deciding to move to a new country for asthma management should be carefully considered. Here are some factors to consider:
+
+1. **Climate and Weather**: Spain has a Mediterranean climate, which is generally warm and dry. This can be beneficial for asthma as dry air can reduce the frequency of asthma attacks. However, if you have allergies to pollen or other allergens, you should consider the seasonal variations and potential triggers.
+
+2. **Air Quality**: Air pollution can exacerbate asthma symptoms. Research the air quality in the specific area you are considering moving to. Cities with lower pollution levels might be more suitable for asthma management.
+
+3. **Healthcare System**: Spain has a universal healthcare system, which can be advantageous for managing chronic conditions like asthma. Ensure you understand how to access healthcare services and medications in your new location.
+
+4. **Lifestyle and Activities**: Consider how the lifestyle in Spain might affect your asthma. For example, if you enjoy outdoor activities, ensure you have the necessary medication and precautions in place.
+
+5. **Support Network**: Moving to a new country means building a new support network. Consider how you will manage your asthma with the help of local healthcare providers and support groups.
+
+6. **Cost of Living**: Evaluate the cost of living in Spain, including healthcare expenses. Ensure that you can afford the necessary medications and treatments.
+
+7. **Cultural and Language Barriers**: Be aware of any cultural differences that might affect your healthcare experience. If there is a language barrier, consider learning the language or finding a translator.
+
+8. **Consult with a Healthcare Professional**: Before making any decisions, consult with your healthcare provider. They can provide personalized advice based on your medical history and current health status.
+
+Remember, while the climate and lifestyle in Spain might be appealing, it's crucial to prioritize your health and ensure you have the necessary resources to manage your asthma effectively.",0.608175,0.686018,0.644755,0.015638,0.216749,0.049505,0.128079
+85,,"Discuss this with your doctor. One solution is to take extra medication before you go out dancing. An increase in medication may make it possible for you to participate in activities that are important to you.
+
+A chronic disease like asthma can, of course, place limitations on your social life that are hard to accept. You can feel a sense of loss over not being able to go out dancing, or missing out on other activities. You may need to work through these feelings so you can move on and find other alternative activities that can be equally pleasant and valuable.","Living with asthma can indeed be challenging, especially when it impacts your ability to participate in activities you love. Here are some strategies to help you manage your asthma and continue enjoying your activities:
+
+1. **Consult with your healthcare provider:** Discuss your concerns and activities with your doctor. They can help you understand your asthma triggers and adjust your treatment plan to better control your symptoms.
+
+2. **Identify triggers:** Keep a diary of your asthma symptoms and activities to identify any patterns or triggers that may be affecting your condition.
+
+3. **Use preventive medication:** Inhaled corticosteroids and long-acting beta-agonists can help prevent asthma attacks and allow you to participate in activities more comfortably.
+
+4. **Warm-up and cool down:** Before engaging in physical activities, warm up to prepare your lungs and airways. Afterward, cool down to help your body recover.
+
+5. **Stay hydrated:** Drink plenty of water to help keep your airways moist and reduce the risk of asthma symptoms.
+
+6. **Use a rescue inhaler:** Always have your rescue inhaler (such as albuterol) on hand in case of an asthma attack.
+
+7. **Educate yourself:** Learn more about asthma management and techniques to control your symptoms.
+
+8. **Stay positive:** Focus on the activities you can do and find alternative ways to enjoy them.
+
+Remember, with proper management and support, you can still enjoy dancing and other activities.",0.633583,0.711056,0.670088,0.035485,0.297872,0.073394,0.164134
+86,,"Yes. Asthma medications include very effective airway openers. Even more importantly, they include very effective controllers (inhaled steroids), which can prevent most asthma attacks when used regularly.","Yes, asthma medications can help prevent asthma symptoms. There are two main types of asthma medications: quick-relief inhalers (bronchodilators) and long-term control medications. Quick-relief inhalers are used to relieve acute symptoms, while long-term control medications, such as inhaled corticosteroids, help reduce inflammation in the airways and prevent symptoms from occurring. Asthma medications are designed to prevent symptoms by reducing airway inflammation and improving airflow. Inhaled corticosteroids are commonly used for long-term control, while bronchodilators provide quick relief during an asthma attack. Asthma medications, including inhaled corticosteroids and bronchodilators, can help prevent symptoms by controlling inflammation and opening airways. Asthma medications, such as inhaled corticosteroids and long-acting beta agonists, can help prevent symptoms by reducing airway inflammation and improving breathing. Yes, asthma medications can help prevent symptoms. Inhaled corticosteroids and long-acting beta agonists are effective in reducing inflammation and preventing asthma attacks. Asthma medications, including inhaled corticosteroids and long-acting beta agonists, can help prevent symptoms by reducing inflammation and improving airflow. Yes, asthma medications can help prevent symptoms. Inhaled corticosteroids and long-acting beta agonists are effective in reducing inflammation and preventing asthma attacks. Asthma medications, such as inhaled corticosteroids and long-acting beta agonists, can help prevent symptoms by reducing inflammation and improving breathing. Yes, asthma medications can help prevent symptoms. Inhaled corticosteroids and long-acting beta agonists are effective in reducing inflammation and preventing asthma attacks. Asthma medications, including inhaled corticosteroids and long-acting beta agonists",0.63719,0.709961,0.67161,0.0,0.088235,0.022222,0.073529
+87,,"Not all people with asthma feel worse when they are upset or worried. Those who do may be easily stressed, or may cry or breathe too fast (hyperventilate) easily. Another reason that your asthma gets worse could be that you are not being treated properly for the inflammation you have in your airways.","Emotional stress and anxiety can exacerbate asthma symptoms due to the body's physiological response to stress. When you are upset or worried, your body releases stress hormones like cortisol and adrenaline. These hormones can cause your airways to narrow, making it harder to breathe. Additionally, stress can lead to increased inflammation in the airways, further worsening asthma symptoms. Managing stress through relaxation techniques, such as deep breathing, meditation, or yoga, can help control asthma symptoms.",0.680005,0.709513,0.694446,0.044927,0.248062,0.07874,0.155039

@@ -1,0 +1,55 @@
+""You will evaluate two answers to the same question based on five criteria: **Comprehensiveness**, **Diversity**, **Empowerment**, **Validity** and **Expertise**.
+
+            - **Comprehensiveness**: How much detail does the answer provide to cover all aspects and details of the question?
+            - **Diversity**: How varied and rich is the answer in providing different perspectives and insights on the question?
+            - **Empowerment**: How well does the answer help the reader understand and make informed judgments about the topic?
+            - **Validity**: Does the answer contain references to formal content?
+            - **Expertise**: Which answer would be more appropriate for a professional work environment?
+
+            For each criterion, choose the better answer (either Answer 1 or Answer 2) and explain why. Then, select an overall winner based on these five categories.
+            The question and the answers are related to asthma.
+
+            Here is the question: 
+        {questao}
+
+    Here are the two answers:
+
+            **Answer 1:**
+        {resposta1}
+
+
+
+            **Answer 2:**
+        {resposta2}
+
+    Output your evaluation in the following JSON format:
+
+        {{
+                "Question":{{
+                    "Name": "[The prompt string]"
+                }},
+                "Comprehensiveness": {{
+                    "Winner": "[Answer 1 or Answer 2]",
+                    "Explanation": "[Provide explanation here]"
+                }},
+                "Diversity": {{
+                    "Winner": "[Answer 1 or Answer 2]",
+                    "Explanation": "[Provide explanation here]"
+                }},
+                "Empowerment": {{
+                    "Winner": "[Answer 1 or Answer 2]",
+                    "Explanation": "[Provide explanation here]"
+                }},
+                "Validity": {{
+                    "Winner": "[Answer 1 or Answer 2]",
+                    "Explanation": "[Provide explanation here]"
+                }},
+                "Expertise": {{
+                    "Winner": "[Answer 1 or Answer 2]",
+                    "Explanation": "[Provide explanation here]"
+                }},
+                "Overall Winner": {{
+                    "Winner": "[Answer 1 or Answer 2]",
+                    "Explanation": "[Summarize why this answer is the overall winner based on the three criteria]"
+                }}
+            }}"""
